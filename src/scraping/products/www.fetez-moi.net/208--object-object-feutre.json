@@ -1,0 +1,46 @@
+[
+    {
+        "title": "STYLO GEL",
+        "price": "1,15 €",
+        "description": [
+            "<strong>Dimensions colis (cm)</strong> : 20.5X19X7.5",
+            "<strong>Matiere</strong> : ENCRE",
+            "<strong>Dimensions produit</strong> : 12.5CM",
+            "<strong>Colisage</strong> : 24",
+            "<strong>Produits interieur (pcs)</strong> : BLISTER LA PIECE",
+            "<strong>Poids du produit (kg)</strong> : 0.03",
+            "<strong>Poids du colis (kg)</strong> : 0.622"
+        ],
+        "image": "https://www.fetez-moi.net/392040-large_default/468OR-stylo-gel.jpg",
+        "images": [
+            "https://www.fetez-moi.net/392040-thickbox_default/468OR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392040/468OR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392041-thickbox_default/468OR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392041/468OR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392042-thickbox_default/468OR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392042/468OR-stylo-gel.jpg"
+        ]
+    },
+    {
+        "title": "STYLO GEL",
+        "price": "1,15 €",
+        "description": [
+            "<strong>Dimensions colis (cm)</strong> : 20.5 X 19 X 7.5",
+            "<strong>Matiere</strong> : ENCRE",
+            "<strong>Dimensions produit</strong> : 12.5 cm",
+            "<strong>Colisage</strong> : 24",
+            "<strong>Produits interieur (pcs)</strong> : BLISTER UNE PIECE",
+            "<strong>Poids du produit (kg)</strong> : 0.03",
+            "<strong>Poids du colis (kg)</strong> : 0.622"
+        ],
+        "image": "https://www.fetez-moi.net/392028-large_default/468AR-stylo-gel.jpg",
+        "images": [
+            "https://www.fetez-moi.net/392028-thickbox_default/468AR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392028/468AR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392029-thickbox_default/468AR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392029/468AR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392030-thickbox_default/468AR-stylo-gel.jpg",
+            "https://www.fetez-moi.net/392030/468AR-stylo-gel.jpg"
+        ]
+    }
+]
