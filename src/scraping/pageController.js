@@ -8,12 +8,13 @@ async function scrapeAll(browserInstance, Url){
         url = await Url;
 		browser = await browserInstance;
         const page = await browser.newPage();
+        await page.setDefaultNavigationTimeout(0);
         await page.setViewport({width: 1200, height: 720})
         // await page.goto('https://www.fetez-moi.net/authentification');
         await page.goto(url);
+        // await page.waitForNavigation();
         await page.waitForSelector('a');
         await page.click('a');
-        //await page.waitForNavigation();
         await page.waitForSelector("#email");
         await page.type('#email', 'fairepart@hotmail.fr', { delay: 50 });
         await page.waitForSelector("#passwd");
@@ -21,6 +22,7 @@ async function scrapeAll(browserInstance, Url){
         await page.click('#SubmitLogin');
 
         let newPage = await browser.newPage();
+        await newPage.setDefaultNavigationTimeout(0);
         await newPage.goto(url);
 
         let urls = await newPage.$$eval('.center_block', links => {
@@ -34,19 +36,26 @@ async function scrapeAll(browserInstance, Url){
 
         // console.log(urls);
         let productPage = [];
+        // let scrapedElement = [];
+        const urlName = (url.split('https://')[1]).split('?')[0];
+        
         urls.forEach( async(link, i) => {
             //pageScraper(browser, link);
             productPage[i] = await browser.newPage();
-            // console.log('Link', link);
+            
+            productPage[i].setDefaultTimeout(0);
 
             await productPage[i].goto(link);
-        // Wait for the required DOM to be rendered
-            const scrapedElement = page.$('#pb-short_description_block-column');
+            // Wait for the required DOM to be rendered
+            // const scrapedElement = page.$('#pb-short_description_block-column');
+            
+            // scrapedElement[i] = await productPage[i].$('#primary_block');
 
-            await productPage[i].waitForSelector('#primary_block');
+            // await productPage[i].waitForSelector('#primary_block');
             // Get the link to all the required books
 
             let productEl = () => new Promise(async(resolve, reject) => {
+
                 let dataObj = {};
                 
                 dataObj['title'] = await productPage[i].$eval('h1', text => text.textContent);
@@ -66,12 +75,12 @@ async function scrapeAll(browserInstance, Url){
 
             });
 
+            // await productPage[i].waitForNavigation();
 
-            if(scrapedElement){
-                await productEl().then((value , i) => {
-                    const urlName = (url.split('https://')[1]).split('?')[0];
-
-                    fs.appendFile(`../products/${urlName}.json`, JSON.stringify(value), (err) => { 
+            await productPage[i].waitForSelector('#primary_block').then( async() => {
+                await productEl().then((response) => {
+                    
+                    fs.appendFile(path.join(__dirname, `/products/${urlName}.json`), JSON.stringify(response), (err) => { 
                         if (err) 
                           console.log(err); 
                         else { 
@@ -79,21 +88,17 @@ async function scrapeAll(browserInstance, Url){
                           return 
                         } 
                     });
-                    //console.log(value);
-                    return value;
                 });
-                
-            } else {
-                console.log('No scraped element found');
-            }
+            });
 
         });
 
-        await page.waitForNavigation()
-        
-		await page.scraper(browser);	
-		await newPage.scraper(browser);	
-		
+        // await page.waitForNavigation()
+		// await newPage.waitForNavigation();
+
+		// await page.scraper(browser);	
+    
+		// await newPage.scraper(browser);	
 	}
 	catch(err){
 		console.log("Could not resolve the browser instance => ", err);

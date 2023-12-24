@@ -29,15 +29,18 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use('/api/v1', 
     router.post('/url', async (req, res) => {
-        console.log(req.body.url);
+        // console.log(req.body.url);
         //res.send('Hel.body
         // return console.log(path.join(__dirname,`/book-scraper/products/${(req.body.url.split('https://')[1]).split('?')[0]}.json`));
         return await scrap(req.body.url).then(() => {
-            console.log('Fain de scrap');
-            fs.readFile(path.join(__dirname,`/book-scraper/products/${(req.body.url.split('https://')[1]).split('?')[0]}.json`), 'utf8', (data) => {
-                console.log('Data', data);
-                return res.status(200).send(data)
-            });
+            
+            // Return success response
+            return res.status(200).send('Scraping done');
+            
+            // fs.readFile(path.join(__dirname,`/products/${(req.body.url.split('https://')[1]).split('?')[0]}.json`), 'utf8', (data) => {
+            //     console.log('Data', data);
+            //     return res.status(200).send(data)
+            // });
             
         });
     })
