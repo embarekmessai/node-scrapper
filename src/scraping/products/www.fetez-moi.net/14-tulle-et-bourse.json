@@ -1,7 +1,8 @@
 [
     {
-        "title": "SAC JUTE ET CORDON 5 pcs",
-        "price": "1,70 €",
+        "name": "SAC JUTE ET CORDON 5 pcs",
+        "type": "simple",
+        "regular_price": "1,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 21 X 12.5",
             "<strong>Matiere</strong> : Jute",
@@ -24,8 +25,9 @@
         ]
     },
     {
-        "title": "Bourse jute et dentelle 5 pièces ",
-        "price": "1,95 €",
+        "name": "Bourse jute et dentelle 5 pièces ",
+        "type": "simple",
+        "regular_price": "1,95 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : 7 CM",
@@ -50,8 +52,9 @@
         ]
     },
     {
-        "title": "Bourse jute et dentelle les 5 pièces",
-        "price": "1,95 €",
+        "name": "Bourse jute et dentelle les 5 pièces",
+        "type": "simple",
+        "regular_price": "1,95 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : 7 CM",
@@ -80,8 +83,9 @@
         ]
     },
     {
-        "title": "Bourse lin Cœur jute 5 pièces ",
-        "price": "1,95 €",
+        "name": "Bourse lin Cœur jute 5 pièces ",
+        "type": "simple",
+        "regular_price": "1,95 €",
         "description": [
             "<strong>Matiere</strong> : LIN ET JUTE",
             "<strong>Dimensions produit</strong> : 7 CM",
@@ -103,8 +107,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -125,8 +130,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -147,8 +153,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -170,8 +177,9 @@
         ]
     },
     {
-        "title": "ROND DE DENTELLE 10 PIÈCES",
-        "price": "1,39 €",
+        "name": "ROND DE DENTELLE 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,39 €",
         "description": [
             "<strong>Matiere</strong> : DENTELLE",
             "<strong>Dimensions produit</strong> : diamètre 24cm",
@@ -192,8 +200,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -214,8 +223,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -236,8 +246,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -258,8 +269,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -280,8 +292,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -302,8 +315,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -324,8 +338,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -346,8 +361,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -372,8 +388,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -398,8 +415,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -424,8 +442,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -450,8 +469,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -476,8 +496,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -498,8 +519,9 @@
         ]
     },
     {
-        "title": "ROND DE DENTELLE 10 PIÈCES",
-        "price": "1,39 €",
+        "name": "ROND DE DENTELLE 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,39 €",
         "description": [
             "<strong>Matiere</strong> : DENTELLE",
             "<strong>Dimensions produit</strong> : diamètre 24cm",
@@ -520,8 +542,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -542,8 +565,9 @@
         ]
     },
     {
-        "title": "TULLE BORD FIL 10 pcs",
-        "price": "0,85 €",
+        "name": "TULLE BORD FIL 10 pcs",
+        "type": "simple",
+        "regular_price": "0,85 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31 x15 x9",
             "<strong>Matiere</strong> : tissu organdi",
@@ -563,8 +587,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -585,8 +610,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -612,8 +638,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -639,8 +666,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -665,8 +693,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Matiere</strong> : ORGANZA",
             "<strong>Dimensions produit</strong> : diametre 24 cm",
@@ -687,8 +716,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -709,8 +739,9 @@
         ]
     },
     {
-        "title": "TULLE BORD FIL 10 pcs",
-        "price": "0,85 €",
+        "name": "TULLE BORD FIL 10 pcs",
+        "type": "simple",
+        "regular_price": "0,85 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31 x 15 x 9",
             "<strong>Matiere</strong> : tissu organdi",
@@ -729,8 +760,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -755,8 +787,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Matiere</strong> : ORGANZA",
             "<strong>Dimensions produit</strong> : diametre 24 cm",
@@ -778,8 +811,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -800,8 +834,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",
@@ -827,8 +862,9 @@
         ]
     },
     {
-        "title": "SAC ORGANZA 10 pcs",
-        "price": "0,99 €",
+        "name": "SAC ORGANZA 10 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x10",
             "<strong>Matiere</strong> : ORGANZA",
@@ -851,8 +887,9 @@
         ]
     },
     {
-        "title": "VOILE NACRE FESTONNE 25pcs",
-        "price": "0,88 €",
+        "name": "VOILE NACRE FESTONNE 25pcs",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 20x 5",
             "<strong>Matiere</strong> : ORGANZA",

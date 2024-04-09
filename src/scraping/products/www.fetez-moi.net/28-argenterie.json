@@ -1,7 +1,8 @@
 [
     {
-        "title": "POMME TORSADE METAL",
-        "price": "0,61 €",
+        "name": "POMME TORSADE METAL",
+        "type": "simple",
+        "regular_price": "0,61 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25 X 22 X 19",
             "<strong>Matiere</strong> : FER FORGE",
@@ -22,8 +23,9 @@
         ]
     },
     {
-        "title": "MINI TONNELLE",
-        "price": "0,52 €",
+        "name": "MINI TONNELLE",
+        "type": "simple",
+        "regular_price": "0,52 €",
         "description": [
             "<strong>Matiere</strong> : fer forge",
             "<strong>Dimensions produit</strong> : 6 x 7 x 8,5 cm",
@@ -37,8 +39,9 @@
         ]
     },
     {
-        "title": "DOME METAL",
-        "price": "0,61 €",
+        "name": "DOME METAL",
+        "type": "simple",
+        "regular_price": "0,61 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25 X 22 X 19",
             "<strong>Matiere</strong> : FER FORGE",
@@ -56,8 +59,9 @@
         ]
     },
     {
-        "title": "MINI TONNELLE ",
-        "price": "0,77 €",
+        "name": "MINI TONNELLE ",
+        "type": "simple",
+        "regular_price": "0,77 €",
         "description": [
             "<strong>Matiere</strong> : fer forge",
             "<strong>Dimensions produit</strong> : 6 x 7 x 8,5 cm",
@@ -76,8 +80,9 @@
         ]
     },
     {
-        "title": "MINI TONNELLE",
-        "price": "0,52 €",
+        "name": "MINI TONNELLE",
+        "type": "simple",
+        "regular_price": "0,52 €",
         "description": [
             "<strong>Matiere</strong> : fer forge",
             "<strong>Dimensions produit</strong> : 6 x 7 x 8,5 cm",
@@ -91,8 +96,9 @@
         ]
     },
     {
-        "title": "POMME TORSADE METAL",
-        "price": "0,61 €",
+        "name": "POMME TORSADE METAL",
+        "type": "simple",
+        "regular_price": "0,61 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25 X 22 X 19",
             "<strong>Matiere</strong> : FER FORGE",
@@ -115,8 +121,9 @@
         ]
     },
     {
-        "title": "COEUR TRESSE METAL",
-        "price": "0,49 €",
+        "name": "COEUR TRESSE METAL",
+        "type": "simple",
+        "regular_price": "0,49 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25 X 20 X18",
             "<strong>Matiere</strong> : FER FORGE",
@@ -139,8 +146,9 @@
         ]
     },
     {
-        "title": "DOME METAL",
-        "price": "0,61 €",
+        "name": "DOME METAL",
+        "type": "simple",
+        "regular_price": "0,61 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25 X 22 X 19",
             "<strong>Matiere</strong> : FER FORGE",
@@ -157,8 +165,9 @@
         ]
     },
     {
-        "title": "COEUR TRESSE METAL",
-        "price": "0,49 €",
+        "name": "COEUR TRESSE METAL",
+        "type": "simple",
+        "regular_price": "0,49 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25 X 20 X18",
             "<strong>Matiere</strong> : FER FORGE",

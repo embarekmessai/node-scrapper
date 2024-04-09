@@ -1,7 +1,8 @@
 [
     {
-        "title": "LIVRE D'OR JUTE 25 pages",
-        "price": "6,70 €",
+        "name": "LIVRE D'OR JUTE 25 pages",
+        "type": "simple",
+        "regular_price": "6,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 25 X25",
             "<strong>Matiere</strong> : JUTE ET PAPIER",
@@ -24,8 +25,9 @@
         ]
     },
     {
-        "title": "Urne VIVE LES MARIES",
-        "price": "5,90 €",
+        "name": "Urne VIVE LES MARIES",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X 32X32",
             "<strong>Matiere</strong> : CARTON",
@@ -46,8 +48,9 @@
         ]
     },
     {
-        "title": "Urne joyeux anniversaire",
-        "price": "5,90 €",
+        "name": "Urne joyeux anniversaire",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X 32X32",
             "<strong>Matiere</strong> : CARTON",
@@ -66,8 +69,9 @@
         ]
     },
     {
-        "title": "Livre d'or Vive les Mariés",
-        "price": "6,20 €",
+        "name": "Livre d'or Vive les Mariés",
+        "type": "simple",
+        "regular_price": "6,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 25 X25",
             "<strong>Matiere</strong> : PAPIER",
@@ -88,8 +92,9 @@
         ]
     },
     {
-        "title": "PANIER JUTE ET DENTELLE",
-        "price": "4,20 €",
+        "name": "PANIER JUTE ET DENTELLE",
+        "type": "simple",
+        "regular_price": "4,20 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : HAUTEUR 20CM / DIAM 15CM",
@@ -107,8 +112,9 @@
         ]
     },
     {
-        "title": "Urne pliable",
-        "price": "4,72 €",
+        "name": "Urne pliable",
+        "type": "simple",
+        "regular_price": "4,72 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X 32X32",
             "<strong>Matiere</strong> : CARTON",
@@ -131,8 +137,9 @@
         ]
     },
     {
-        "title": "Livre d'or Vive les Mariés",
-        "price": "5,90 €",
+        "name": "Livre d'or Vive les Mariés",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 25 X25",
             "<strong>Matiere</strong> : PAPIER",
@@ -155,8 +162,9 @@
         ]
     },
     {
-        "title": "LIVRE D'OR  BOIS (20 pages)",
-        "price": "4,90 €",
+        "name": "LIVRE D'OR  BOIS (20 pages)",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22,5X20CM",
             "<strong>Matiere</strong> : BOIS",
@@ -173,8 +181,9 @@
         ]
     },
     {
-        "title": "LIVRE D'OR (20 pages)",
-        "price": "5,50 €",
+        "name": "LIVRE D'OR (20 pages)",
+        "type": "simple",
+        "regular_price": "5,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 29  X 27",
             "<strong>Matiere</strong> : SIMILIS CUIR",
@@ -197,8 +206,9 @@
         ]
     },
     {
-        "title": "URNE PLIABLE KRAFT",
-        "price": "3,90 €",
+        "name": "URNE PLIABLE KRAFT",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X 32X32",
             "<strong>Matiere</strong> : CARTON",
@@ -221,8 +231,9 @@
         ]
     },
     {
-        "title": "Urne pliable PRINCESSE",
-        "price": "5,90 €",
+        "name": "Urne pliable PRINCESSE",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X 20X20",
             "<strong>Matiere</strong> : CARTON",

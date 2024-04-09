@@ -1,7 +1,8 @@
 [
     {
-        "title": "ETUIS COEUR A BULLE 6 pcs",
-        "price": "1,08 €",
+        "name": "ETUIS COEUR A BULLE 6 pcs",
+        "type": "simple",
+        "regular_price": "1,08 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 16 X 11.5",
             "<strong>Matiere</strong> : BULLE",
@@ -18,8 +19,9 @@
         ]
     },
     {
-        "title": "ETUIS COEUR A BULLE 6 pcs",
-        "price": "1,08 €",
+        "name": "ETUIS COEUR A BULLE 6 pcs",
+        "type": "simple",
+        "regular_price": "1,08 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 x16  x 11,5",
             "<strong>Matiere</strong> : BULLE",

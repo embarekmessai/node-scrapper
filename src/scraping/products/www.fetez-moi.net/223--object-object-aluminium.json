@@ -1,7 +1,8 @@
 [
     {
-        "title": "Barquettes  5l-2 pieces",
-        "price": "1,60 €",
+        "name": "Barquettes  5l-2 pieces",
+        "type": "simple",
+        "regular_price": "1,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 59X39X45",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -16,8 +17,9 @@
         "images": []
     },
     {
-        "title": "Plateaux ovales   5  pieces-1.8l",
-        "price": "2,99 €",
+        "name": "Plateaux ovales   5  pieces-1.8l",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 59X40X26",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -32,8 +34,9 @@
         "images": []
     },
     {
-        "title": "Moules à tarte  2 pieces 1.5l",
-        "price": "1,25 €",
+        "name": "Moules à tarte  2 pieces 1.5l",
+        "type": "simple",
+        "regular_price": "1,25 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X50",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -51,8 +54,9 @@
         ]
     },
     {
-        "title": "Ramequins 20  PIECES 125ML",
-        "price": "0,79 €",
+        "name": "Ramequins 20  PIECES 125ML",
+        "type": "simple",
+        "regular_price": "0,79 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 59x38x25",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -70,8 +74,9 @@
         ]
     },
     {
-        "title": "barquettes & couvercles 10 pieces-610ml",
-        "price": "1,60 €",
+        "name": "barquettes & couvercles 10 pieces-610ml",
+        "type": "simple",
+        "regular_price": "1,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X50",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -86,8 +91,9 @@
         "images": []
     },
     {
-        "title": "barquettes & couvercles  10 pieces  0.70L",
-        "price": "1,54 €",
+        "name": "barquettes & couvercles  10 pieces  0.70L",
+        "type": "simple",
+        "regular_price": "1,54 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 59x40x26",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -105,8 +111,9 @@
         ]
     },
     {
-        "title": "barquettes  &  couvercles 5 pieces 2L",
-        "price": "1,87 €",
+        "name": "barquettes  &  couvercles 5 pieces 2L",
+        "type": "simple",
+        "regular_price": "1,87 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 54x39x38",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -126,8 +133,9 @@
         ]
     },
     {
-        "title": "barquettes 3.6 l-5 pieces",
-        "price": "2,99 €",
+        "name": "barquettes 3.6 l-5 pieces",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 59X39X45",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -142,8 +150,9 @@
         "images": []
     },
     {
-        "title": "barquettes &  couvercles 1l-10 pieces",
-        "price": "1,75 €",
+        "name": "barquettes &  couvercles 1l-10 pieces",
+        "type": "simple",
+        "regular_price": "1,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X50",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -161,8 +170,9 @@
         ]
     },
     {
-        "title": "ROULEAU  ALUMINUM 20M",
-        "price": "1,99 €",
+        "name": "ROULEAU  ALUMINUM 20M",
+        "type": "simple",
+        "regular_price": "1,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X50",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -179,8 +189,9 @@
         ]
     },
     {
-        "title": "barquettes  et couvercles  5 pcs  2.6l",
-        "price": "2,25 €",
+        "name": "barquettes  et couvercles  5 pcs  2.6l",
+        "type": "simple",
+        "regular_price": "2,25 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 590X390X450",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -200,8 +211,9 @@
         ]
     },
     {
-        "title": "barquettes & couvercles  0.30 l  5 pieces",
-        "price": "1,15 €",
+        "name": "barquettes & couvercles  0.30 l  5 pieces",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X50",
             "<strong>Matiere</strong> : ALUMINIUM",
@@ -219,8 +231,9 @@
         ]
     },
     {
-        "title": "Plateau 2 compartiments  & couverts 50 pcs ",
-        "price": "1,32 €",
+        "name": "Plateau 2 compartiments  & couverts 50 pcs ",
+        "type": "simple",
+        "regular_price": "1,32 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X50",
             "<strong>Matiere</strong> : ALUMINIUM",

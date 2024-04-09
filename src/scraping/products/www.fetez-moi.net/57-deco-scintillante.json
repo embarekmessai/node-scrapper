@@ -1,7 +1,8 @@
 [
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",
@@ -22,8 +23,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",
@@ -44,8 +46,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",
@@ -67,8 +70,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",
@@ -89,8 +93,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",
@@ -112,8 +117,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",
@@ -135,8 +141,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43.5 x 22 x13",
             "<strong>Matiere</strong> : plume",
@@ -158,8 +165,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",
@@ -181,8 +189,9 @@
         ]
     },
     {
-        "title": "PAPILLON SCINTILLANT 6 pcs",
-        "price": "1,45 €",
+        "name": "PAPILLON SCINTILLANT 6 pcs",
+        "type": "simple",
+        "regular_price": "1,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5 X 22 X 13",
             "<strong>Matiere</strong> : plume",

@@ -1,7 +1,8 @@
 [
     {
-        "title": "GUIRLANDE  BABY SHOWER  3 M",
-        "price": "1,95 €",
+        "name": "GUIRLANDE  BABY SHOWER  3 M",
+        "type": "simple",
+        "regular_price": "1,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "Ballon 8 pièces ballon BABY SHOWER",
-        "price": "1,20 €",
+        "name": "Ballon 8 pièces ballon BABY SHOWER",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25x35x1.5cm",
             "<strong>Matiere</strong> : LATEX",
@@ -38,8 +40,9 @@
         ]
     },
     {
-        "title": "10 Gobelets BABY SHOWER",
-        "price": "0,89 €",
+        "name": "10 Gobelets BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -60,8 +63,9 @@
         ]
     },
     {
-        "title": "20 Serviettes BABY SHOWER",
-        "price": "0,85 €",
+        "name": "20 Serviettes BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,85 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER 2 PLIS ",
@@ -84,8 +88,9 @@
         ]
     },
     {
-        "title": "10 Gobelets BABY SHOWER",
-        "price": "0,89 €",
+        "name": "10 Gobelets BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -106,8 +111,9 @@
         ]
     },
     {
-        "title": "Ballon 8 pièces ballon BABY SHOWER",
-        "price": "1,20 €",
+        "name": "Ballon 8 pièces ballon BABY SHOWER",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25x35x1.5cm",
             "<strong>Matiere</strong> : LATEX",
@@ -123,8 +129,9 @@
         ]
     },
     {
-        "title": "CHEMIN TABLE  BABY SHOWER  3 M",
-        "price": "2,45 €",
+        "name": "CHEMIN TABLE  BABY SHOWER  3 M",
+        "type": "simple",
+        "regular_price": "2,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER",
@@ -143,8 +150,9 @@
         ]
     },
     {
-        "title": "20 Serviettes BABY SHOWER",
-        "price": "1,10 €",
+        "name": "20 Serviettes BABY SHOWER",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER 2 PLIS ",
@@ -161,8 +169,9 @@
         ]
     },
     {
-        "title": "8 Gobelets BABY SHOWER",
-        "price": "0,89 €",
+        "name": "8 Gobelets BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -185,8 +194,9 @@
         ]
     },
     {
-        "title": "10 Assiettes BABY SHOWER",
-        "price": "0,96 €",
+        "name": "10 Assiettes BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37.5x25.5x25",
             "<strong>Matiere</strong> : CARTON",
@@ -208,8 +218,9 @@
         ]
     },
     {
-        "title": "8 Assiettes BABY SHOWER",
-        "price": "0,96 €",
+        "name": "8 Assiettes BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37.5x25.5x25",
             "<strong>Matiere</strong> : CARTON",
@@ -251,8 +262,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22  X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -273,8 +285,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -295,8 +308,9 @@
         ]
     },
     {
-        "title": "BABY SHOWER en bois la pièce",
-        "price": "5,29 €",
+        "name": "BABY SHOWER en bois la pièce",
+        "type": "simple",
+        "regular_price": "5,29 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 12 X 20",
             "<strong>Matiere</strong> : BOIS",
@@ -323,8 +337,9 @@
         ]
     },
     {
-        "title": "BIBERON 6 pcs",
-        "price": "1,10 €",
+        "name": "BIBERON 6 pcs",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 52 X 35 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -346,8 +361,9 @@
         ]
     },
     {
-        "title": "10 Assiettes BABY SHOWER",
-        "price": "0,96 €",
+        "name": "10 Assiettes BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37.5x25.5x25",
             "<strong>Matiere</strong> : CARTON",
@@ -369,8 +385,9 @@
         ]
     },
     {
-        "title": "BIBERON 6 pcs",
-        "price": "1,10 €",
+        "name": "BIBERON 6 pcs",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 52 X 35 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -393,8 +410,9 @@
         ]
     },
     {
-        "title": "20  Serviettes BABY SHOWER",
-        "price": "0,85 €",
+        "name": "20  Serviettes BABY SHOWER",
+        "type": "simple",
+        "regular_price": "0,85 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER 2 PLIS ",

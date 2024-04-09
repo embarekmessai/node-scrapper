@@ -1,7 +1,8 @@
 [
     {
-        "title": "RUBAN DENTELLE 2.5CMx3METRES",
-        "price": "0,98 €",
+        "name": "RUBAN DENTELLE 2.5CMx3METRES",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -26,8 +27,9 @@
         ]
     },
     {
-        "title": "RUBAN DENTELLE ADHÉSIF 1CMx2METRES",
-        "price": "0,89 €",
+        "name": "RUBAN DENTELLE ADHÉSIF 1CMx2METRES",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -52,8 +54,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -70,8 +73,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -88,8 +92,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -106,8 +111,9 @@
         ]
     },
     {
-        "title": "RUBAN DENTELLE 5CMx3METRES",
-        "price": "1,68 €",
+        "name": "RUBAN DENTELLE 5CMx3METRES",
+        "type": "simple",
+        "regular_price": "1,68 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -134,8 +140,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -152,8 +159,9 @@
         ]
     },
     {
-        "title": "ROULEAU JUTE 10cmx5 mètres",
-        "price": "1,78 €",
+        "name": "ROULEAU JUTE 10cmx5 mètres",
+        "type": "simple",
+        "regular_price": "1,78 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36X30X36/",
             "<strong>Matiere</strong> : JUTE",
@@ -172,8 +180,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -187,8 +196,9 @@
         "images": []
     },
     {
-        "title": "CORDON 0.7MMx10METRES",
-        "price": "1,15 €",
+        "name": "CORDON 0.7MMx10METRES",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : JUTE",
@@ -207,8 +217,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -225,8 +236,9 @@
         ]
     },
     {
-        "title": "RUBAN DENTELLE ADHÉSIF 2.5CMx2METRES",
-        "price": "1,68 €",
+        "name": "RUBAN DENTELLE ADHÉSIF 2.5CMx2METRES",
+        "type": "simple",
+        "regular_price": "1,68 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -253,8 +265,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -268,8 +281,9 @@
         "images": []
     },
     {
-        "title": "RUBAN DENTELLE 2.5CMx3METRES",
-        "price": "0,98 €",
+        "name": "RUBAN DENTELLE 2.5CMx3METRES",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -296,8 +310,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -311,8 +326,9 @@
         "images": []
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -329,8 +345,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 x 30  cm",
             "<strong>Matiere</strong> : satin polyester",
@@ -347,8 +364,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -365,8 +383,9 @@
         ]
     },
     {
-        "title": "BOLDUC METAL 100mx5mm",
-        "price": "1,33 €",
+        "name": "BOLDUC METAL 100mx5mm",
+        "type": "simple",
+        "regular_price": "1,33 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 X 19 X 18",
             "<strong>Matiere</strong> : polypropylene",
@@ -385,8 +404,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -403,8 +423,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -421,8 +442,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -439,8 +461,9 @@
         ]
     },
     {
-        "title": "BOLDUC METAL 100mx5mm",
-        "price": "1,33 €",
+        "name": "BOLDUC METAL 100mx5mm",
+        "type": "simple",
+        "regular_price": "1,33 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 x 19 x 18",
             "<strong>Matiere</strong> : polypropylene",
@@ -459,8 +482,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -477,8 +501,9 @@
         ]
     },
     {
-        "title": "CORDON ELASTIQUE 30m",
-        "price": "1,28 €",
+        "name": "CORDON ELASTIQUE 30m",
+        "type": "simple",
+        "regular_price": "1,28 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22.5 x 17.5 x 11",
             "<strong>Matiere</strong> : POLYAMIDE",
@@ -497,8 +522,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -515,8 +541,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -533,8 +560,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -553,8 +581,9 @@
         ]
     },
     {
-        "title": "BOLDUC 100mx5mm",
-        "price": "0,88 €",
+        "name": "BOLDUC 100mx5mm",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 x 19.5 x18",
             "<strong>Matiere</strong> : bolduc",
@@ -573,8 +602,9 @@
         ]
     },
     {
-        "title": "FIL A PECHE rouleau 60 m",
-        "price": "0,80 €",
+        "name": "FIL A PECHE rouleau 60 m",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 16.5  X 11",
             "<strong>Matiere</strong> : plastique",
@@ -593,8 +623,9 @@
         ]
     },
     {
-        "title": "BOLDUC 100mx5mm",
-        "price": "0,88 €",
+        "name": "BOLDUC 100mx5mm",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 x 19.5 x18",
             "<strong>Matiere</strong> : bolduc",
@@ -613,8 +644,9 @@
         ]
     },
     {
-        "title": "BOLDUC 100mx5mm",
-        "price": "0,88 €",
+        "name": "BOLDUC 100mx5mm",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 x 19.5 x18",
             "<strong>Matiere</strong> : bolduc",
@@ -633,8 +665,9 @@
         ]
     },
     {
-        "title": "RUBAN LAME rouleau 25 mx10cm",
-        "price": "0,99 €",
+        "name": "RUBAN LAME rouleau 25 mx10cm",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYAMIDE",
@@ -655,8 +688,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE PAILLETTE 10mx8cm",
-        "price": "1,20 €",
+        "name": "RUBAN TULLE PAILLETTE 10mx8cm",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24.5 X 19 X 9",
             "<strong>Matiere</strong> : tulle pailleté",
@@ -675,8 +709,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -693,8 +728,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 30CMX9 M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 30CMX9 M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -713,8 +749,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -731,8 +768,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -749,8 +787,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 30CMX9 M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 30CMX9 M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -764,8 +803,9 @@
         "images": []
     },
     {
-        "title": "RUBAN DENTELLE ADHÉSIF 2.5CMx2METRES",
-        "price": "1,68 €",
+        "name": "RUBAN DENTELLE ADHÉSIF 2.5CMx2METRES",
+        "type": "simple",
+        "regular_price": "1,68 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -790,8 +830,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -810,8 +851,9 @@
         ]
     },
     {
-        "title": "Bobine corde jutte 6mmX10m",
-        "price": "2,00 €",
+        "name": "Bobine corde jutte 6mmX10m",
+        "type": "simple",
+        "regular_price": "2,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36+",
             "<strong>Matiere</strong> : JUTE",
@@ -825,8 +867,9 @@
         "images": []
     },
     {
-        "title": "RUBAN LAME rouleau 25 m x 10cm",
-        "price": "0,99 €",
+        "name": "RUBAN LAME rouleau 25 m x 10cm",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYAMIDE",
@@ -847,8 +890,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -867,8 +911,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -887,8 +932,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -921,8 +967,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20mx8cm",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20mx8cm",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -947,8 +994,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -979,8 +1027,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -997,8 +1046,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1029,8 +1079,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1061,8 +1112,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1095,8 +1147,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -1113,8 +1166,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1128,8 +1182,9 @@
         "images": []
     },
     {
-        "title": "RUBAN DENTELLE 5CMx3METRES",
-        "price": "1,68 €",
+        "name": "RUBAN DENTELLE 5CMx3METRES",
+        "type": "simple",
+        "regular_price": "1,68 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -1154,8 +1209,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -1172,8 +1228,9 @@
         ]
     },
     {
-        "title": "CORDON ELASTIQUE 30m",
-        "price": "1,28 €",
+        "name": "CORDON ELASTIQUE 30m",
+        "type": "simple",
+        "regular_price": "1,28 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22.5 x 17.5 x 11",
             "<strong>Matiere</strong> : POLYAMIDE",
@@ -1190,8 +1247,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20mx8cm",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20mx8cm",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1211,8 +1269,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -1231,8 +1290,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -1251,8 +1311,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -1269,8 +1330,9 @@
         ]
     },
     {
-        "title": "BOLDUC 100mx5mm",
-        "price": "0,88 €",
+        "name": "BOLDUC 100mx5mm",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 x 19.5 x18",
             "<strong>Matiere</strong> : bolduc",
@@ -1289,8 +1351,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE PAILLETTE 10mx8cm",
-        "price": "1,20 €",
+        "name": "RUBAN TULLE PAILLETTE 10mx8cm",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24.5 X 19 X 9",
             "<strong>Matiere</strong> : tulle pailleté",
@@ -1309,8 +1372,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 30CMX9 M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 30CMX9 M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1329,8 +1393,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 30CMX9 M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 30CMX9 M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1349,8 +1414,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20mx8cm",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20mx8cm",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1369,8 +1435,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -1389,8 +1456,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -1409,8 +1477,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -1427,8 +1496,9 @@
         ]
     },
     {
-        "title": "RUBAN LAME rouleau 25 mx10cm",
-        "price": "0,99 €",
+        "name": "RUBAN LAME rouleau 25 mx10cm",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYAMIDE",
@@ -1442,8 +1512,9 @@
         "images": []
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1474,8 +1545,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1506,8 +1578,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1541,8 +1614,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1556,8 +1630,9 @@
         "images": []
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -1574,8 +1649,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -1594,8 +1670,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -1612,8 +1689,9 @@
         ]
     },
     {
-        "title": "BOLDUC 100mx5mm",
-        "price": "0,88 €",
+        "name": "BOLDUC 100mx5mm",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 x 19.5 x18",
             "<strong>Matiere</strong> : bolduc",
@@ -1632,8 +1710,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1652,8 +1731,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20mx8cm",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20mx8cm",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1672,8 +1752,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1704,8 +1785,9 @@
         ]
     },
     {
-        "title": "RUBAN SATIN rouleau 25mx6mm",
-        "price": "0,48 €",
+        "name": "RUBAN SATIN rouleau 25mx6mm",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35 X 30",
             "<strong>Matiere</strong> : satin polyester",
@@ -1722,8 +1804,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1754,8 +1837,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1769,8 +1853,9 @@
         "images": []
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -1787,8 +1872,9 @@
         ]
     },
     {
-        "title": "RUBAN DENTELLE  ADHÉSIF 1CMx2METRES",
-        "price": "0,89 €",
+        "name": "RUBAN DENTELLE  ADHÉSIF 1CMx2METRES",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYESTER",
@@ -1815,8 +1901,9 @@
         ]
     },
     {
-        "title": "RUBAN ORGANZA rouleau 20mx15mm",
-        "price": "0,65 €",
+        "name": "RUBAN ORGANZA rouleau 20mx15mm",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24 X 22 X 15",
             "<strong>Matiere</strong> : organdi",
@@ -1835,8 +1922,9 @@
         ]
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1863,8 +1951,9 @@
         ]
     },
     {
-        "title": "Ruban satin rouleau 5mX25mm",
-        "price": "0,60 €",
+        "name": "Ruban satin rouleau 5mX25mm",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 X 18 X 14",
             "<strong>Matiere</strong> : satin polyester",
@@ -1881,8 +1970,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20mx8cm",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20mx8cm",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1901,8 +1991,9 @@
         ]
     },
     {
-        "title": "RUBAN TULLE rouleau 20CMX100M",
-        "price": "0,70 €",
+        "name": "RUBAN TULLE rouleau 20CMX100M",
+        "type": "simple",
+        "regular_price": "0,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5x 27 x17",
             "<strong>Matiere</strong> : tulle",
@@ -1916,8 +2007,9 @@
         "images": []
     },
     {
-        "title": "Ruban satin 5mx60mm",
-        "price": "1,23 €",
+        "name": "Ruban satin 5mx60mm",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 X 35 X 6",
             "<strong>Matiere</strong> : satin polyester",
@@ -1948,8 +2040,9 @@
         ]
     },
     {
-        "title": "BOLDUC 100mx5mm",
-        "price": "0,88 €",
+        "name": "BOLDUC 100mx5mm",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 x 19.5 x18",
             "<strong>Matiere</strong> : bolduc",

@@ -1,7 +1,8 @@
 [
     {
-        "title": "MARQUE PLACE PAPILLON 6 PIECES",
-        "price": "1,40 €",
+        "name": "MARQUE PLACE PAPILLON 6 PIECES",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 6.5x6CM",
@@ -22,8 +23,9 @@
         ]
     },
     {
-        "title": "12 ETIQUETTES CHEVALET PORTE NOM",
-        "price": "0,97 €",
+        "name": "12 ETIQUETTES CHEVALET PORTE NOM",
+        "type": "simple",
+        "regular_price": "0,97 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 13 X 12",
             "<strong>Matiere</strong> : carton",
@@ -46,8 +48,9 @@
         ]
     },
     {
-        "title": "MARQUE PLACE TRONC",
-        "price": "0,65 €",
+        "name": "MARQUE PLACE TRONC",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Matiere</strong> : BOIS",
             "<strong>Dimensions produit</strong> : diamètre 5.5CM x hauteur 2cm",
@@ -65,8 +68,9 @@
         ]
     },
     {
-        "title": "PINCE A LINGE 12 pcs",
-        "price": "0,99 €",
+        "name": "PINCE A LINGE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 14 X 8",
             "<strong>Matiere</strong> : BOIS",
@@ -83,8 +87,9 @@
         ]
     },
     {
-        "title": "PORTE NOM TRONC 10 PIECES",
-        "price": "1,57 €",
+        "name": "PORTE NOM TRONC 10 PIECES",
+        "type": "simple",
+        "regular_price": "1,57 €",
         "description": [
             "<strong>Matiere</strong> : BOIS",
             "<strong>Dimensions produit</strong> : diamètre 5CM x hauteur 0.6cm",
@@ -102,8 +107,9 @@
         ]
     },
     {
-        "title": "12 ETIQUETTES CHEVALET PORTE NOM KRAFT",
-        "price": "0,97 €",
+        "name": "12 ETIQUETTES CHEVALET PORTE NOM KRAFT",
+        "type": "simple",
+        "regular_price": "0,97 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 13 X 12",
             "<strong>Matiere</strong> : carton",
@@ -126,8 +132,9 @@
         ]
     },
     {
-        "title": "PINCE A LINGE 12 pcs",
-        "price": "0,99 €",
+        "name": "PINCE A LINGE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 14 X 8",
             "<strong>Matiere</strong> : BOIS",
@@ -144,8 +151,9 @@
         ]
     },
     {
-        "title": "MARQUE  TABLE CUBE",
-        "price": "0,89 €",
+        "name": "MARQUE  TABLE CUBE",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 22.6 X 15",
             "<strong>Matiere</strong> : BOIS",
@@ -163,8 +171,9 @@
         ]
     },
     {
-        "title": "MARQUE PLACE  TRONC BOIS",
-        "price": "4,40 €",
+        "name": "MARQUE PLACE  TRONC BOIS",
+        "type": "simple",
+        "regular_price": "4,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 22.6 X 15",
             "<strong>Matiere</strong> : BOIS",
@@ -183,8 +192,9 @@
         ]
     },
     {
-        "title": "MINI ARBRE MARQUE PLACE",
-        "price": "0,79 €",
+        "name": "MINI ARBRE MARQUE PLACE",
+        "type": "simple",
+        "regular_price": "0,79 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26 x 16 x 13.5",
             "<strong>Matiere</strong> : bois",
@@ -201,8 +211,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE JUST MARRIED 10 PIECES",
-        "price": "1,17 €",
+        "name": "ETIQUETTE JUST MARRIED 10 PIECES",
+        "type": "simple",
+        "regular_price": "1,17 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 10x5CM",
@@ -225,8 +236,9 @@
         ]
     },
     {
-        "title": "ROND DE SERVIETTE PAPILLON 6 PIÈCES",
-        "price": "1,40 €",
+        "name": "ROND DE SERVIETTE PAPILLON 6 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 7 CM",

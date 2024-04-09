@@ -1,7 +1,8 @@
 [
     {
-        "title": "CHEMIN TABLE JUTE MARIAGE",
-        "price": "2,90 €",
+        "name": "CHEMIN TABLE JUTE MARIAGE",
+        "type": "simple",
+        "regular_price": "2,90 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : 26CM X5METRES",
@@ -14,8 +15,9 @@
         "images": []
     },
     {
-        "title": "CHEMIN TABLE CHAMPETRE",
-        "price": "3,60 €",
+        "name": "CHEMIN TABLE CHAMPETRE",
+        "type": "simple",
+        "regular_price": "3,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36+",
             "<strong>Matiere</strong> : JUTE",
@@ -29,8 +31,9 @@
         "images": []
     },
     {
-        "title": "CHEMIN TABLE JUTE BAPTEME",
-        "price": "2,90 €",
+        "name": "CHEMIN TABLE JUTE BAPTEME",
+        "type": "simple",
+        "regular_price": "2,90 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : 26CM X5METRES",
@@ -43,8 +46,9 @@
         "images": []
     },
     {
-        "title": "CHEMIN TABLE JUTE &  DENTELLE 3MX28*CM",
-        "price": "3,99 €",
+        "name": "CHEMIN TABLE JUTE &  DENTELLE 3MX28*CM",
+        "type": "simple",
+        "regular_price": "3,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36",
             "<strong>Matiere</strong> : JUTE",
@@ -67,8 +71,9 @@
         ]
     },
     {
-        "title": "Chemin de table paielletéé 28cmx3m",
-        "price": "2,99 €",
+        "name": "Chemin de table paielletéé 28cmx3m",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29X15 15",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -87,8 +92,9 @@
         ]
     },
     {
-        "title": "CHEMIN TABLE JUTE 8CMX20M",
-        "price": "3,68 €",
+        "name": "CHEMIN TABLE JUTE 8CMX20M",
+        "type": "simple",
+        "regular_price": "3,68 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : 8CMX20M",
@@ -110,8 +116,9 @@
         ]
     },
     {
-        "title": "ROULEAU INTISSE 29CMX10M",
-        "price": "1,20 €",
+        "name": "ROULEAU INTISSE 29CMX10M",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -132,8 +139,9 @@
         ]
     },
     {
-        "title": "ruban toile de jutte éffilée 15cmX5m",
-        "price": "2,39 €",
+        "name": "ruban toile de jutte éffilée 15cmX5m",
+        "type": "simple",
+        "regular_price": "2,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36+",
             "<strong>Matiere</strong> : JUTE",
@@ -147,8 +155,9 @@
         "images": []
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -169,8 +178,9 @@
         ]
     },
     {
-        "title": "CHEMIN DE TABLE ARABESQUE 28cmx5m",
-        "price": "2,89 €",
+        "name": "CHEMIN DE TABLE ARABESQUE 28cmx5m",
+        "type": "simple",
+        "regular_price": "2,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : ORGANDI IMPRIME PAILLETTE",
@@ -189,8 +199,9 @@
         ]
     },
     {
-        "title": "CHEMIN DE TABLE MUSIQUE 28cmx5m",
-        "price": "2,75 €",
+        "name": "CHEMIN DE TABLE MUSIQUE 28cmx5m",
+        "type": "simple",
+        "regular_price": "2,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 20 X 31 X 15",
             "<strong>Matiere</strong> : INTISSE",
@@ -214,8 +225,9 @@
         ]
     },
     {
-        "title": "Chemin de table Cheveux d'ange 29cmx5m",
-        "price": "2,50 €",
+        "name": "Chemin de table Cheveux d'ange 29cmx5m",
+        "type": "simple",
+        "regular_price": "2,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29X15X15CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -234,8 +246,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22  X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -256,8 +269,9 @@
         ]
     },
     {
-        "title": "chemin de table  toile de jutte éffilée 30cmX5m",
-        "price": "3,20 €",
+        "name": "chemin de table  toile de jutte éffilée 30cmX5m",
+        "type": "simple",
+        "regular_price": "3,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36",
             "<strong>Matiere</strong> : JUTE",
@@ -271,8 +285,9 @@
         "images": []
     },
     {
-        "title": "CHEMIN DE TABLE ARABESQUE 28cmx5m",
-        "price": "2,89 €",
+        "name": "CHEMIN DE TABLE ARABESQUE 28cmx5m",
+        "type": "simple",
+        "regular_price": "2,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : ORGANDI IMPRIME PAILLETTE",
@@ -299,8 +314,9 @@
         ]
     },
     {
-        "title": "Chemin de table football",
-        "price": "2,75 €",
+        "name": "Chemin de table football",
+        "type": "simple",
+        "regular_price": "2,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : INTISSE",
@@ -326,8 +342,9 @@
         ]
     },
     {
-        "title": "Chemin de table PRINCESSE",
-        "price": "2,75 €",
+        "name": "Chemin de table PRINCESSE",
+        "type": "simple",
+        "regular_price": "2,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : COTON JUTE",
@@ -348,8 +365,9 @@
         ]
     },
     {
-        "title": "CHEMIN DE TABLE PAILLETTE 29cmx5m",
-        "price": "1,44 €",
+        "name": "CHEMIN DE TABLE PAILLETTE 29cmx5m",
+        "type": "simple",
+        "regular_price": "1,44 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 30 X 18",
             "<strong>Matiere</strong> : TULLE ",
@@ -374,8 +392,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29mx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29mx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -396,8 +415,9 @@
         ]
     },
     {
-        "title": "RUBAN JUTE 10CMX5M",
-        "price": "3,20 €",
+        "name": "RUBAN JUTE 10CMX5M",
+        "type": "simple",
+        "regular_price": "3,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36",
             "<strong>Matiere</strong> : JUTE",
@@ -411,8 +431,9 @@
         "images": []
     },
     {
-        "title": "Chemin table oriental",
-        "price": "2,80 €",
+        "name": "Chemin table oriental",
+        "type": "simple",
+        "regular_price": "2,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : INTISSE",
@@ -437,8 +458,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -459,8 +481,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -481,8 +504,9 @@
         ]
     },
     {
-        "title": "CHEMIN TABLE JUTE (bord cousu)",
-        "price": "2,97 €",
+        "name": "CHEMIN TABLE JUTE (bord cousu)",
+        "type": "simple",
+        "regular_price": "2,97 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36+",
             "<strong>Matiere</strong> : JUTE",
@@ -505,8 +529,9 @@
         ]
     },
     {
-        "title": "CHEMIN DE TABLE PAILLETTE 29cmx5m",
-        "price": "1,44 €",
+        "name": "CHEMIN DE TABLE PAILLETTE 29cmx5m",
+        "type": "simple",
+        "regular_price": "1,44 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 30 X 18",
             "<strong>Matiere</strong> : TULLE ",
@@ -531,8 +556,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29mx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29mx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -553,8 +579,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -575,8 +602,9 @@
         ]
     },
     {
-        "title": "Bobine corde jutte 6mmX10m",
-        "price": "2,00 €",
+        "name": "Bobine corde jutte 6mmX10m",
+        "type": "simple",
+        "regular_price": "2,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X52X36+",
             "<strong>Matiere</strong> : JUTE",
@@ -590,8 +618,9 @@
         "images": []
     },
     {
-        "title": "CHEMIN TABLE LIN (bord cousu)",
-        "price": "3,15 €",
+        "name": "CHEMIN TABLE LIN (bord cousu)",
+        "type": "simple",
+        "regular_price": "3,15 €",
         "description": [
             "<strong>Matiere</strong> : LIN",
             "<strong>Dimensions produit</strong> : 26CM X5METRES",
@@ -617,8 +646,9 @@
         ]
     },
     {
-        "title": "Chemin de table Cheveux d'ange 29cmx5m",
-        "price": "2,50 €",
+        "name": "Chemin de table Cheveux d'ange 29cmx5m",
+        "type": "simple",
+        "regular_price": "2,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29X15 15",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -639,8 +669,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -661,8 +692,9 @@
         ]
     },
     {
-        "title": "ROULEAU JUTE 10cmx5 mètres",
-        "price": "1,78 €",
+        "name": "ROULEAU JUTE 10cmx5 mètres",
+        "type": "simple",
+        "regular_price": "1,78 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36X30X36/",
             "<strong>Matiere</strong> : JUTE",

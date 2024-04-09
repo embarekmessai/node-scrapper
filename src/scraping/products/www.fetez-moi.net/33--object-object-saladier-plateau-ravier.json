@@ -1,7 +1,8 @@
 [
     {
-        "title": "set 5 plateau rond  & napperon",
-        "price": "1,40 €",
+        "name": "set 5 plateau rond  & napperon",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26X23,4X35 \n",
             "<strong>Matiere</strong> : or",
@@ -18,8 +19,9 @@
         ]
     },
     {
-        "title": "Ravier  ovale 10 pièces",
-        "price": "1,60 €",
+        "name": "Ravier  ovale 10 pièces",
+        "type": "simple",
+        "regular_price": "1,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44x25x20.3",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -36,8 +38,9 @@
         ]
     },
     {
-        "title": "SALADIER 10  PCS  380 ml canne à sucre ",
-        "price": "2,00 €",
+        "name": "SALADIER 10  PCS  380 ml canne à sucre ",
+        "type": "simple",
+        "regular_price": "2,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5X37.5X5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -54,8 +57,9 @@
         ]
     },
     {
-        "title": "PLATEAU RECTANGLE 10PCS FIBRE DE CANNE A SUCRE - 26X13CM",
-        "price": "1,40 €",
+        "name": "PLATEAU RECTANGLE 10PCS FIBRE DE CANNE A SUCRE - 26X13CM",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 28.5X27.5X28CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -71,8 +75,9 @@
         ]
     },
     {
-        "title": "BOL 25 PCS  FIBRE DE CANNE A SUCRE 380ML",
-        "price": "1,86 €",
+        "name": "BOL 25 PCS  FIBRE DE CANNE A SUCRE 380ML",
+        "type": "simple",
+        "regular_price": "1,86 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5X37.5X5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -98,8 +103,9 @@
         ]
     },
     {
-        "title": "Plateau kraft -5 pieces ",
-        "price": "0,60 €",
+        "name": "Plateau kraft -5 pieces ",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26X23,4X35 \n",
             "<strong>Matiere</strong> : CARTON KRAFT",

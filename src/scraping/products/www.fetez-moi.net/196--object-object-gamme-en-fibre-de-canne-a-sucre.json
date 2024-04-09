@@ -1,7 +1,8 @@
 [
     {
-        "title": "VERRINE GOUTTES  25 PCS - FIBRE DE CANNE AUCRE",
-        "price": "1,89 €",
+        "name": "VERRINE GOUTTES  25 PCS - FIBRE DE CANNE AUCRE",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37X29X37.5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -14,8 +15,9 @@
         "images": []
     },
     {
-        "title": "VERRINE PLATEAU  25 PCS - FIBRE DE CANNE A SUCRE",
-        "price": "1,89 €",
+        "name": "VERRINE PLATEAU  25 PCS - FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37X29X37.5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -29,8 +31,9 @@
         "images": []
     },
     {
-        "title": "CUILLERES A DESSERT 25 PCS FIBRE DE CANNE A SUCRE",
-        "price": "0,99 €",
+        "name": "CUILLERES A DESSERT 25 PCS FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
             "<strong>Dimensions produit</strong> : 12.5CM",
@@ -45,8 +48,9 @@
         ]
     },
     {
-        "title": "PLATEAU RECTANGLE 10PCS FIBRE DE CANNE A SUCRE - 26X13CM",
-        "price": "1,40 €",
+        "name": "PLATEAU RECTANGLE 10PCS FIBRE DE CANNE A SUCRE - 26X13CM",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 28.5X27.5X28CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -62,8 +66,9 @@
         ]
     },
     {
-        "title": "BOL 25 PCS  FIBRE DE CANNE A SUCRE 380ML",
-        "price": "1,86 €",
+        "name": "BOL 25 PCS  FIBRE DE CANNE A SUCRE 380ML",
+        "type": "simple",
+        "regular_price": "1,86 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5X37.5X5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -89,8 +94,9 @@
         ]
     },
     {
-        "title": "FEUILLES 25 PCS VERRINE -  FIBRE DE CANNE A SUCRE",
-        "price": "1,89 €",
+        "name": "FEUILLES 25 PCS VERRINE -  FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37X29X37.5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -106,8 +112,9 @@
         ]
     },
     {
-        "title": "ASSIETTE CARREE 10PCS - 26CM FIBRE DE CANNE A SUCRE",
-        "price": "2,60 €",
+        "name": "ASSIETTE CARREE 10PCS - 26CM FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "2,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 53.5X26X28CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -131,8 +138,9 @@
         ]
     },
     {
-        "title": "ASSIETTE RONDE 25 PCS - 23CM FIBRE DE CANNE A SUCRE",
-        "price": "2,40 €",
+        "name": "ASSIETTE RONDE 25 PCS - 23CM FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "2,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 47X27.5X47.5",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -160,8 +168,9 @@
         ]
     },
     {
-        "title": "ASSIETTE CARREE 25 PCS -  16CM FIBRE DE CANNE A SUCRE",
-        "price": "2,20 €",
+        "name": "ASSIETTE CARREE 25 PCS -  16CM FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "2,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 33.5X22X34CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -185,8 +194,9 @@
         ]
     },
     {
-        "title": "CUILLÈRES 25 PCS FIBRE DE CANNE A SUCRE",
-        "price": "1,50 €",
+        "name": "CUILLÈRES 25 PCS FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,50 €",
         "description": [
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
             "<strong>Dimensions produit</strong> : 17CM",
@@ -205,8 +215,9 @@
         ]
     },
     {
-        "title": "ASSIETTE RONDE 25 PCS - 18CM FIBRE DE CANNE A SUCRE",
-        "price": "1,89 €",
+        "name": "ASSIETTE RONDE 25 PCS - 18CM FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37X29X37.5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -234,8 +245,9 @@
         ]
     },
     {
-        "title": "FOURCHETTES 25  PCS FIBRE DE CANNE A SUCRE",
-        "price": "1,50 €",
+        "name": "FOURCHETTES 25  PCS FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,50 €",
         "description": [
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
             "<strong>Dimensions produit</strong> : 18CM",
@@ -255,8 +267,9 @@
         ]
     },
     {
-        "title": "SALADIER 10  PCS  380 ml canne à sucre ",
-        "price": "2,00 €",
+        "name": "SALADIER 10  PCS  380 ml canne à sucre ",
+        "type": "simple",
+        "regular_price": "2,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39.5X37.5X5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -273,8 +286,9 @@
         ]
     },
     {
-        "title": "COUTEAUX 25 PCS FIBRE DE CANNE A SUCRE",
-        "price": "1,50 €",
+        "name": "COUTEAUX 25 PCS FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,50 €",
         "description": [
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
             "<strong>Dimensions produit</strong> : 17.5CM",

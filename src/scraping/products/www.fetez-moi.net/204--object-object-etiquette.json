@@ -1,7 +1,8 @@
 [
     {
-        "title": "MARQUE PLACE COEUR 6 PIECES",
-        "price": "1,40 €",
+        "name": "MARQUE PLACE COEUR 6 PIECES",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 6.5x6CM",
@@ -16,8 +17,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE X10 PCS",
-        "price": "0,95 €",
+        "name": "ETIQUETTE X10 PCS",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 x 18 x 13",
             "<strong>Matiere</strong> : carton",
@@ -31,8 +33,9 @@
         "images": []
     },
     {
-        "title": "ETIQUETTE COEUR 12 pcs",
-        "price": "0,95 €",
+        "name": "ETIQUETTE COEUR 12 pcs",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 x 18 x 13",
             "<strong>Matiere</strong> : carton",
@@ -53,8 +56,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE COEUR 12 pcs",
-        "price": "0,95 €",
+        "name": "ETIQUETTE COEUR 12 pcs",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19  x 18 x 13",
             "<strong>Matiere</strong> : carton",
@@ -77,8 +81,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE COEUR 12 pcs",
-        "price": "0,95 €",
+        "name": "ETIQUETTE COEUR 12 pcs",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 x 18 x 13",
             "<strong>Matiere</strong> : carton",
@@ -100,8 +105,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE RECTANGLE KRAFT 12 pcs",
-        "price": "0,80 €",
+        "name": "ETIQUETTE RECTANGLE KRAFT 12 pcs",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 13 X 12",
             "<strong>Matiere</strong> : carton",
@@ -124,8 +130,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE RECTANGLE 12 pcs",
-        "price": "0,80 €",
+        "name": "ETIQUETTE RECTANGLE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 13 X 12",
             "<strong>Matiere</strong> : carton",
@@ -146,8 +153,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE RECTANGLE 12 pcs",
-        "price": "0,80 €",
+        "name": "ETIQUETTE RECTANGLE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 13 X 12",
             "<strong>Matiere</strong> : carton",
@@ -168,8 +176,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE JUST MARRIED 10 PIECES",
-        "price": "1,17 €",
+        "name": "ETIQUETTE JUST MARRIED 10 PIECES",
+        "type": "simple",
+        "regular_price": "1,17 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 10x5CM",
@@ -192,8 +201,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE COEUR KRAFT 12 pcs",
-        "price": "0,95 €",
+        "name": "ETIQUETTE COEUR KRAFT 12 pcs",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 x 18 x 13",
             "<strong>Matiere</strong> : carton",
@@ -220,8 +230,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE RECTANGLE 12 pcs",
-        "price": "0,80 €",
+        "name": "ETIQUETTE RECTANGLE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 13 X 12",
             "<strong>Matiere</strong> : carton",
@@ -248,8 +259,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE RECTANGLE 12 pcs",
-        "price": "0,80 €",
+        "name": "ETIQUETTE RECTANGLE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 13 X 12",
             "<strong>Matiere</strong> : papier",
@@ -276,8 +288,9 @@
         ]
     },
     {
-        "title": "ETIQUETTE COEUR 12 pcs",
-        "price": "0,95 €",
+        "name": "ETIQUETTE COEUR 12 pcs",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19X 18 X 13",
             "<strong>Matiere</strong> : carton",

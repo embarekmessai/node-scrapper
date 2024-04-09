@@ -1,7 +1,8 @@
 [
     {
-        "title": "Serviette CUBE 20 pièces",
-        "price": "0,94 €",
+        "name": "Serviette CUBE 20 pièces",
+        "type": "simple",
+        "regular_price": "0,94 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER 2 PLIS ",
@@ -26,8 +27,9 @@
         ]
     },
     {
-        "title": "Gobelet CUBE les 10 pièces",
-        "price": "0,94 €",
+        "name": "Gobelet CUBE les 10 pièces",
+        "type": "simple",
+        "regular_price": "0,94 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -52,8 +54,9 @@
         ]
     },
     {
-        "title": "Assiette CUBE les 10 pièces",
-        "price": "0,97 €",
+        "name": "Assiette CUBE les 10 pièces",
+        "type": "simple",
+        "regular_price": "0,97 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37.5x25.5x25",
             "<strong>Matiere</strong> : CARTON",

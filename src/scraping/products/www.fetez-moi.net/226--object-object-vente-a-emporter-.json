@@ -1,7 +1,8 @@
 [
     {
-        "title": "Pot  a salade  25 pieces 1L & couvert pet",
-        "price": "12,00 €",
+        "name": "Pot  a salade  25 pieces 1L & couvert pet",
+        "type": "simple",
+        "regular_price": "12,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -16,8 +17,9 @@
         "images": []
     },
     {
-        "title": "BARQUETTE MICRO ONDE 500ML",
-        "price": "234,00 €",
+        "name": "BARQUETTE MICRO ONDE 500ML",
+        "type": "simple",
+        "regular_price": "234,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : PS",
@@ -34,8 +36,9 @@
         ]
     },
     {
-        "title": "Pot  a soupe  50 PCS 750 ML 6",
-        "price": "15,00 €",
+        "name": "Pot  a soupe  50 PCS 750 ML 6",
+        "type": "simple",
+        "regular_price": "15,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -50,8 +53,9 @@
         "images": []
     },
     {
-        "title": "Pot  a  pate  25  pieces ",
-        "price": "9,60 €",
+        "name": "Pot  a  pate  25  pieces ",
+        "type": "simple",
+        "regular_price": "9,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -66,8 +70,9 @@
         "images": []
     },
     {
-        "title": "BARQUETTE 100 PCS  -300ML",
-        "price": "5,80 €",
+        "name": "BARQUETTE 100 PCS  -300ML",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -82,8 +87,9 @@
         "images": []
     },
     {
-        "title": "BOITE  PIZZA  100 PCS ",
-        "price": "5,80 €",
+        "name": "BOITE  PIZZA  100 PCS ",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -98,8 +104,9 @@
         "images": []
     },
     {
-        "title": "Pot  a salade  25 pieces 750 ML & couvert pet",
-        "price": "11,50 €",
+        "name": "Pot  a salade  25 pieces 750 ML & couvert pet",
+        "type": "simple",
+        "regular_price": "11,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -114,8 +121,9 @@
         "images": []
     },
     {
-        "title": "Pot  a salade  25 pieces1200ML & couvert pet",
-        "price": "14,90 €",
+        "name": "Pot  a salade  25 pieces1200ML & couvert pet",
+        "type": "simple",
+        "regular_price": "14,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -130,8 +138,9 @@
         "images": []
     },
     {
-        "title": "BOITE HAMBURGEUR X25",
-        "price": "15,00 €",
+        "name": "BOITE HAMBURGEUR X25",
+        "type": "simple",
+        "regular_price": "15,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",

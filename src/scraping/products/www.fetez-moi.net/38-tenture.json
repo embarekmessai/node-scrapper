@@ -1,7 +1,8 @@
 [
     {
-        "title": "TULLE  paiellette 15 CMX10M",
-        "price": "7,50 €",
+        "name": "TULLE  paiellette 15 CMX10M",
+        "type": "simple",
+        "regular_price": "7,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 83 x 24 x18",
             "<strong>Matiere</strong> : tissu non tisse",
@@ -15,8 +16,9 @@
         "images": []
     },
     {
-        "title": "Tenture paiellette 15CM X10M",
-        "price": "7,50 €",
+        "name": "Tenture paiellette 15CM X10M",
+        "type": "simple",
+        "regular_price": "7,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 83 x 24 x18",
             "<strong>Matiere</strong> : tissu non tisse",
@@ -33,8 +35,9 @@
         ]
     },
     {
-        "title": "TULLE  paiellette 15 CMX10M",
-        "price": "7,50 €",
+        "name": "TULLE  paiellette 15 CMX10M",
+        "type": "simple",
+        "regular_price": "7,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 83 x 24 x18",
             "<strong>Matiere</strong> : tissu non tisse",
@@ -51,8 +54,9 @@
         ]
     },
     {
-        "title": "Tenture paiellette 15CM X10M",
-        "price": "7,50 €",
+        "name": "Tenture paiellette 15CM X10M",
+        "type": "simple",
+        "regular_price": "7,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 83 x 24 x18",
             "<strong>Matiere</strong> : tissu non tisse",
@@ -69,8 +73,9 @@
         ]
     },
     {
-        "title": "ROULEAU TENTURE TULLE 75cmx50m",
-        "price": "5,72 €",
+        "name": "ROULEAU TENTURE TULLE 75cmx50m",
+        "type": "simple",
+        "regular_price": "5,72 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 52 X 24  X 18",
             "<strong>Matiere</strong> : tulle",
@@ -84,8 +89,9 @@
         "images": []
     },
     {
-        "title": "ROULEAU DECO TENTURE 80cmx12m",
-        "price": "3,99 €",
+        "name": "ROULEAU DECO TENTURE 80cmx12m",
+        "type": "simple",
+        "regular_price": "3,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 83 x 24 x18",
             "<strong>Matiere</strong> : tissu non tisse",
@@ -106,8 +112,9 @@
         ]
     },
     {
-        "title": "TULLE  paiellette 15 CMX10M",
-        "price": "7,50 €",
+        "name": "TULLE  paiellette 15 CMX10M",
+        "type": "simple",
+        "regular_price": "7,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 83 x 24 x18",
             "<strong>Matiere</strong> : tissu non tisse",
@@ -121,8 +128,9 @@
         "images": []
     },
     {
-        "title": "ROULEAU DECO 80CMX50M",
-        "price": "8,91 €",
+        "name": "ROULEAU DECO 80CMX50M",
+        "type": "simple",
+        "regular_price": "8,91 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 80x50x40",
             "<strong>Matiere</strong> : Intissé",
@@ -139,8 +147,9 @@
         ]
     },
     {
-        "title": "ROULEAU DECO TENTURE 72cmx12m",
-        "price": "4,50 €",
+        "name": "ROULEAU DECO TENTURE 72cmx12m",
+        "type": "simple",
+        "regular_price": "4,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 83 x 24 x18",
             "<strong>Matiere</strong> : tissu non tisse",
@@ -162,8 +171,9 @@
         ]
     },
     {
-        "title": "ROULEAU DECO 80CMX100M",
-        "price": "0,00 €",
+        "name": "ROULEAU DECO 80CMX100M",
+        "type": "simple",
+        "regular_price": "0,00 €",
         "description": [],
         "image": "https://www.fetez-moi.net/396231-large_default/579BL-rouleau-deco-80cmx100m.jpg",
         "images": [

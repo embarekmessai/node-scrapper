@@ -1,7 +1,8 @@
 [
     {
-        "title": "STYLO GEL",
-        "price": "1,15 €",
+        "name": "STYLO GEL",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 20.5X19X7.5",
             "<strong>Matiere</strong> : ENCRE",
@@ -22,8 +23,9 @@
         ]
     },
     {
-        "title": "STYLO GEL",
-        "price": "1,15 €",
+        "name": "STYLO GEL",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 20.5 X 19 X 7.5",
             "<strong>Matiere</strong> : ENCRE",

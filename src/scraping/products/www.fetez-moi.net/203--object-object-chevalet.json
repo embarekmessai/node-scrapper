@@ -1,7 +1,8 @@
 [
     {
-        "title": "CHEVALET GM PAIELLETE",
-        "price": "0,89 €",
+        "name": "CHEVALET GM PAIELLETE",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31.5 X 26 X 22",
             "<strong>Matiere</strong> : BOIS",
@@ -22,8 +23,9 @@
         ]
     },
     {
-        "title": "CHEVALET GM NATURELLE",
-        "price": "0,89 €",
+        "name": "CHEVALET GM NATURELLE",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31.5X26X22",
             "<strong>Matiere</strong> : BOIS",
@@ -48,8 +50,9 @@
         ]
     },
     {
-        "title": "CHEVALET GM PAIELLETE",
-        "price": "0,89 €",
+        "name": "CHEVALET GM PAIELLETE",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31.5 X 26 X 22",
             "<strong>Matiere</strong> : BOIS",
@@ -74,8 +77,9 @@
         ]
     },
     {
-        "title": "CHEVALET GM PAIELLETE",
-        "price": "0,89 €",
+        "name": "CHEVALET GM PAIELLETE",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31.5 X 26 X 22",
             "<strong>Matiere</strong> : BOIS",

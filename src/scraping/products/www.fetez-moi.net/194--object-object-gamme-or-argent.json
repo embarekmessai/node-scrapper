@@ -1,7 +1,8 @@
 [
     {
-        "title": "Ménagère PRESTIGE   OR 40 ¨PIECES",
-        "price": "3,40 €",
+        "name": "Ménagère PRESTIGE   OR 40 ¨PIECES",
+        "type": "simple",
+        "regular_price": "3,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -18,8 +19,9 @@
         ]
     },
     {
-        "title": "Ménagère PRESTIGE argent 40 pièces",
-        "price": "2,30 €",
+        "name": "Ménagère PRESTIGE argent 40 pièces",
+        "type": "simple",
+        "regular_price": "2,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -44,8 +46,9 @@
         ]
     },
     {
-        "title": "10 Gobelets OR",
-        "price": "1,15 €",
+        "name": "10 Gobelets OR",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -66,8 +69,9 @@
         ]
     },
     {
-        "title": "Assiette ARGENT les 8 pièces",
-        "price": "0,99 €",
+        "name": "Assiette ARGENT les 8 pièces",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -86,8 +90,9 @@
         ]
     },
     {
-        "title": "PLATEU ROND  5 PIECES  OR",
-        "price": "1,50 €",
+        "name": "PLATEU ROND  5 PIECES  OR",
+        "type": "simple",
+        "regular_price": "1,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 56  x  29 x 57 ",
             "<strong>Matiere</strong> : CARTON",
@@ -106,8 +111,9 @@
         ]
     },
     {
-        "title": "Serviette OR 30 pièces",
-        "price": "0,98 €",
+        "name": "Serviette OR 30 pièces",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21.5x50x18cm",
             "<strong>Matiere</strong> : PAPIER 2PLIS ",
@@ -129,8 +135,9 @@
         ]
     },
     {
-        "title": "Assiette   margueriite  or 6  pieces 23 CM",
-        "price": "1,30 €",
+        "name": "Assiette   margueriite  or 6  pieces 23 CM",
+        "type": "simple",
+        "regular_price": "1,30 €",
         "description": [
             "<strong>Matiere</strong> : PS INJECTE",
             "<strong>Dimensions produit</strong> : diamètre 26cm",
@@ -148,8 +155,9 @@
         ]
     },
     {
-        "title": "Nappe damasse 5 x 1.20M",
-        "price": "2,39 €",
+        "name": "Nappe damasse 5 x 1.20M",
+        "type": "simple",
+        "regular_price": "2,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -170,8 +178,9 @@
         ]
     },
     {
-        "title": "Menagere Gourmet 24  pieces",
-        "price": "3,59 €",
+        "name": "Menagere Gourmet 24  pieces",
+        "type": "simple",
+        "regular_price": "3,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 47X45X23",
             "<strong>Matiere</strong> : POLYSTYRENE",
@@ -191,8 +200,9 @@
         ]
     },
     {
-        "title": "Chemin de table Cheveux d'ange 29cmx5m",
-        "price": "2,50 €",
+        "name": "Chemin de table Cheveux d'ange 29cmx5m",
+        "type": "simple",
+        "regular_price": "2,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29X15 15",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -213,8 +223,9 @@
         ]
     },
     {
-        "title": "Chemin de table Cheveux d'ange 29cmx5m",
-        "price": "2,50 €",
+        "name": "Chemin de table Cheveux d'ange 29cmx5m",
+        "type": "simple",
+        "regular_price": "2,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29X15X15CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -233,8 +244,9 @@
         ]
     },
     {
-        "title": "10 Gobelets ARGENT",
-        "price": "1,15 €",
+        "name": "10 Gobelets ARGENT",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -253,8 +265,9 @@
         ]
     },
     {
-        "title": "6 Gobelets lisere or",
-        "price": "1,15 €",
+        "name": "6 Gobelets lisere or",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -272,8 +285,9 @@
         ]
     },
     {
-        "title": "Nappe damasse 5 x 1.20M",
-        "price": "2,39 €",
+        "name": "Nappe damasse 5 x 1.20M",
+        "type": "simple",
+        "regular_price": "2,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -294,8 +308,9 @@
         ]
     },
     {
-        "title": "Chemin de table paielletéé 28cmx3m",
-        "price": "2,99 €",
+        "name": "Chemin de table paielletéé 28cmx3m",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29X15 15",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -314,8 +329,9 @@
         ]
     },
     {
-        "title": "Ménagère PRESTIGE argent 40 pièces",
-        "price": "2,30 €",
+        "name": "Ménagère PRESTIGE argent 40 pièces",
+        "type": "simple",
+        "regular_price": "2,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -334,8 +350,9 @@
         ]
     },
     {
-        "title": "Menagere 30 pieces fourchettes cuilleres couteaux",
-        "price": "3,40 €",
+        "name": "Menagere 30 pieces fourchettes cuilleres couteaux",
+        "type": "simple",
+        "regular_price": "3,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 19.5 X 26",
             "<strong>Matiere</strong> : POLYSTYRENE",
@@ -356,8 +373,9 @@
         ]
     },
     {
-        "title": "Nappe paielletée  3x 1.20M",
-        "price": "9,39 €",
+        "name": "Nappe paielletée  3x 1.20M",
+        "type": "simple",
+        "regular_price": "9,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -376,8 +394,9 @@
         ]
     },
     {
-        "title": "Assiette OR les 8 pièces",
-        "price": "0,99 €",
+        "name": "Assiette OR les 8 pièces",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON KRAFT",

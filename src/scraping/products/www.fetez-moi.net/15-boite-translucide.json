@@ -1,7 +1,8 @@
 [
     {
-        "title": "Vase la pieces ",
-        "price": "4,50 €",
+        "name": "Vase la pieces ",
+        "type": "simple",
+        "regular_price": "4,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42X42X46",
             "<strong>Matiere</strong> : acylique",
@@ -16,8 +17,9 @@
         "images": []
     },
     {
-        "title": "GOUTTE EAU (sachet de 3)",
-        "price": "0,75 €",
+        "name": "GOUTTE EAU (sachet de 3)",
+        "type": "simple",
+        "regular_price": "0,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 x 25 x 13",
             "<strong>Matiere</strong> : plastique",
@@ -40,8 +42,9 @@
         ]
     },
     {
-        "title": "OURSON 3 pcs",
-        "price": "0,69 €",
+        "name": "OURSON 3 pcs",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 56 X 38 X 12",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -68,8 +71,9 @@
         ]
     },
     {
-        "title": "BIBERON 6 pcs",
-        "price": "1,10 €",
+        "name": "BIBERON 6 pcs",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 52 X 35 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -92,8 +96,9 @@
         ]
     },
     {
-        "title": "VOITURE 4 pcs",
-        "price": "0,89 €",
+        "name": "VOITURE 4 pcs",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 38 X 32 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -118,8 +123,9 @@
         ]
     },
     {
-        "title": "COEUR PLASTIQUE 3 pcs",
-        "price": "0,65 €",
+        "name": "COEUR PLASTIQUE 3 pcs",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 32 X 8",
             "<strong>Matiere</strong> : plastique",
@@ -144,8 +150,9 @@
         ]
     },
     {
-        "title": "Bonbonnière les 3 pièces",
-        "price": "1,30 €",
+        "name": "Bonbonnière les 3 pièces",
+        "type": "simple",
+        "regular_price": "1,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42X32X24CM",
             "<strong>Matiere</strong> : pvc",
@@ -176,8 +183,9 @@
         ]
     },
     {
-        "title": "Cube les 3 pieces",
-        "price": "1,10 €",
+        "name": "Cube les 3 pieces",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Matiere</strong> : Pvc translucide rigide",
             "<strong>Dimensions produit</strong> : 5 x 5 x 5 cm",
@@ -196,8 +204,9 @@
         ]
     },
     {
-        "title": "BOULE MONDE les 2 pieces",
-        "price": "0,80 €",
+        "name": "BOULE MONDE les 2 pieces",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42 X 32 X 24",
             "<strong>Matiere</strong> : pvc",
@@ -217,8 +226,9 @@
         ]
     },
     {
-        "title": "Boule 5CM 6 pieces thermoformees",
-        "price": "0,75 €",
+        "name": "Boule 5CM 6 pieces thermoformees",
+        "type": "simple",
+        "regular_price": "0,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42 X 32 X 24",
             "<strong>Matiere</strong> : pvc",
@@ -235,8 +245,9 @@
         ]
     },
     {
-        "title": "VALISE TRANSPARENTE 2 pcs",
-        "price": "1,56 €",
+        "name": "VALISE TRANSPARENTE 2 pcs",
+        "type": "simple",
+        "regular_price": "1,56 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 55 X 33",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -257,8 +268,9 @@
         ]
     },
     {
-        "title": "Coquillage transparents les 3 pièces",
-        "price": "1,20 €",
+        "name": "Coquillage transparents les 3 pièces",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 56 X 38 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -277,8 +289,9 @@
         ]
     },
     {
-        "title": "Cube les 3 pieces",
-        "price": "1,10 €",
+        "name": "Cube les 3 pieces",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Matiere</strong> : Pvc translucide rigide",
             "<strong>Dimensions produit</strong> : 5 x 5 x 5 cm",
@@ -298,8 +311,9 @@
         ]
     },
     {
-        "title": "BONBON 4 pcs",
-        "price": "0,68 €",
+        "name": "BONBON 4 pcs",
+        "type": "simple",
+        "regular_price": "0,68 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43 x 40 x 9",
             "<strong>Matiere</strong> : pvc",
@@ -328,8 +342,9 @@
         ]
     },
     {
-        "title": "Coffret PRINCESSE les 3 pieces",
-        "price": "0,99 €",
+        "name": "Coffret PRINCESSE les 3 pieces",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42X32X24CM",
             "<strong>Matiere</strong> : pvc",
@@ -358,8 +373,9 @@
         ]
     },
     {
-        "title": "Moto les 3 pcs",
-        "price": "1,20 €",
+        "name": "Moto les 3 pcs",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 56 X 38 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -379,8 +395,9 @@
         ]
     },
     {
-        "title": "Phare les 3 pièces",
-        "price": "0,99 €",
+        "name": "Phare les 3 pièces",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42X32X24",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -406,8 +423,9 @@
         ]
     },
     {
-        "title": "CUBE  10 pcs",
-        "price": "1,60 €",
+        "name": "CUBE  10 pcs",
+        "type": "simple",
+        "regular_price": "1,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35  x 35",
             "<strong>Matiere</strong> : acylique",
@@ -421,8 +439,9 @@
         "images": []
     },
     {
-        "title": "CUBE ACRYLIQUE 3 pcs",
-        "price": "1,30 €",
+        "name": "CUBE ACRYLIQUE 3 pcs",
+        "type": "simple",
+        "regular_price": "1,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35  x 35",
             "<strong>Matiere</strong> : acylique",
@@ -463,8 +482,9 @@
         ]
     },
     {
-        "title": "LICORNE 3 pcs",
-        "price": "0,95 €",
+        "name": "LICORNE 3 pcs",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 32 X 8",
             "<strong>Matiere</strong> : plastique",
@@ -485,8 +505,9 @@
         ]
     },
     {
-        "title": "Tete de souris les 3 pieces",
-        "price": "1,30 €",
+        "name": "Tete de souris les 3 pieces",
+        "type": "simple",
+        "regular_price": "1,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42X32X24",
             "<strong>Matiere</strong> : pvc",
@@ -509,8 +530,9 @@
         ]
     },
     {
-        "title": "BALLON DE FOOTBALL LES 3 PIECES",
-        "price": "0,99 €",
+        "name": "BALLON DE FOOTBALL LES 3 PIECES",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 38  X 32  X  12",
             "<strong>Matiere</strong> : plastique",
@@ -533,8 +555,9 @@
         ]
     },
     {
-        "title": "Tirelire les deux pieces",
-        "price": "1,90 €",
+        "name": "Tirelire les deux pieces",
+        "type": "simple",
+        "regular_price": "1,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 47 X 25",
             "<strong>Matiere</strong> : acrylique",
@@ -556,8 +579,9 @@
         ]
     },
     {
-        "title": "PIANO  les 2 pieces",
-        "price": "1,35 €",
+        "name": "PIANO  les 2 pieces",
+        "type": "simple",
+        "regular_price": "1,35 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42 X 32 X 24",
             "<strong>Matiere</strong> : pvc",
@@ -581,8 +605,9 @@
         ]
     },
     {
-        "title": "TETINE PLASTIQUE 4 pcs",
-        "price": "1,10 €",
+        "name": "TETINE PLASTIQUE 4 pcs",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 X 28",
             "<strong>Matiere</strong> : PVC",
@@ -596,8 +621,9 @@
         "images": []
     },
     {
-        "title": "Caméra les 3 pièces",
-        "price": "1,03 €",
+        "name": "Caméra les 3 pièces",
+        "type": "simple",
+        "regular_price": "1,03 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42X32X24",
             "<strong>Matiere</strong> : pvc",
@@ -616,8 +642,9 @@
         ]
     },
     {
-        "title": "TETINE PLASTIQUE 4 pcs",
-        "price": "1,10 €",
+        "name": "TETINE PLASTIQUE 4 pcs",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 X 28",
             "<strong>Matiere</strong> : PVC",
@@ -644,8 +671,9 @@
         ]
     },
     {
-        "title": "BIBERON 6 pcs",
-        "price": "1,10 €",
+        "name": "BIBERON 6 pcs",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 52 X 35 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -667,8 +695,9 @@
         ]
     },
     {
-        "title": "Berceau les 3 pieces",
-        "price": "0,89 €",
+        "name": "Berceau les 3 pieces",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 56 X 38 X 12",
             "<strong>Matiere</strong> : PVC",
@@ -693,8 +722,9 @@
         ]
     },
     {
-        "title": "Etoile les 3 pièces",
-        "price": "0,72 €",
+        "name": "Etoile les 3 pièces",
+        "type": "simple",
+        "regular_price": "0,72 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42x32x24",
             "<strong>Matiere</strong> : pvc",
@@ -729,8 +759,9 @@
         ]
     },
     {
-        "title": "TETINE PLASTIQUE 4 pcs",
-        "price": "1,10 €",
+        "name": "TETINE PLASTIQUE 4 pcs",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46 X 28",
             "<strong>Matiere</strong> : PVC",
@@ -744,8 +775,9 @@
         "images": []
     },
     {
-        "title": "Cube les 3 pieces",
-        "price": "1,10 €",
+        "name": "Cube les 3 pieces",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Matiere</strong> : Pvc translucide rigide",
             "<strong>Dimensions produit</strong> : 5 x 5 x 5 cm",
@@ -764,8 +796,9 @@
         ]
     },
     {
-        "title": "DINOSORE LES 5 PIECES",
-        "price": "1,50 €",
+        "name": "DINOSORE LES 5 PIECES",
+        "type": "simple",
+        "regular_price": "1,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 47 X 25",
             "<strong>Matiere</strong> : acrylique",
@@ -783,8 +816,9 @@
         ]
     },
     {
-        "title": "Mini cloche les 3 pièces",
-        "price": "1,20 €",
+        "name": "Mini cloche les 3 pièces",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42 X 32 X 24",
             "<strong>Matiere</strong> : pvc",
@@ -820,8 +854,9 @@
         ]
     },
     {
-        "title": "NAVETTE  les 3 pieces",
-        "price": "0,60 €",
+        "name": "NAVETTE  les 3 pieces",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42 X 32 X 24",
             "<strong>Matiere</strong> : pvc",

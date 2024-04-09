@@ -1,7 +1,8 @@
 [
     {
-        "title": "Menagere 30 pieces fourchettes cuilleres couteaux",
-        "price": "2,99 €",
+        "name": "Menagere 30 pieces fourchettes cuilleres couteaux",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 19.5 X 26",
             "<strong>Matiere</strong> : POLYSTYRENE",
@@ -16,8 +17,9 @@
         "images": []
     },
     {
-        "title": "Menagere 30 pieces fourchettes cuilleres couteaux",
-        "price": "2,99 €",
+        "name": "Menagere 30 pieces fourchettes cuilleres couteaux",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 19.5 X 26",
             "<strong>Matiere</strong> : POLYSTYRENE",
@@ -38,8 +40,9 @@
         ]
     },
     {
-        "title": "Gobelet pois  ROSE GOLD les 6 pièces",
-        "price": "1,26 €",
+        "name": "Gobelet pois  ROSE GOLD les 6 pièces",
+        "type": "simple",
+        "regular_price": "1,26 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -59,8 +62,9 @@
         ]
     },
     {
-        "title": "Assiette ROSE GOLD les 6 pièces",
-        "price": "0,59 €",
+        "name": "Assiette ROSE GOLD les 6 pièces",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -86,8 +90,9 @@
         ]
     },
     {
-        "title": "Serviette pois  ROSE GOLD  12  pièces",
-        "price": "1,26 €",
+        "name": "Serviette pois  ROSE GOLD  12  pièces",
+        "type": "simple",
+        "regular_price": "1,26 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -113,8 +118,9 @@
         ]
     },
     {
-        "title": "6 Gobelets ROSE GOLD",
-        "price": "0,57 €",
+        "name": "6 Gobelets ROSE GOLD",
+        "type": "simple",
+        "regular_price": "0,57 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -137,8 +143,9 @@
         ]
     },
     {
-        "title": "RUBAN LAME rouleau 25 mx10cm",
-        "price": "0,99 €",
+        "name": "RUBAN LAME rouleau 25 mx10cm",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32 x 25 x5",
             "<strong>Matiere</strong> : POLYAMIDE",
@@ -152,8 +159,9 @@
         "images": []
     },
     {
-        "title": "POT TRANSPARENT  ROSE DORE",
-        "price": "0,69 €",
+        "name": "POT TRANSPARENT  ROSE DORE",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 27.5 X 14 X 6.5 CM",
             "<strong>Matiere</strong> : VERRE",
@@ -172,8 +180,9 @@
         ]
     },
     {
-        "title": "Assiette pois  ROSE GOLD les 6 pièces",
-        "price": "1,26 €",
+        "name": "Assiette pois  ROSE GOLD les 6 pièces",
+        "type": "simple",
+        "regular_price": "1,26 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -203,8 +212,9 @@
         ]
     },
     {
-        "title": "Menagere Gourmet 24  pieces ",
-        "price": "3,59 €",
+        "name": "Menagere Gourmet 24  pieces ",
+        "type": "simple",
+        "regular_price": "3,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 47X45X23",
             "<strong>Matiere</strong> : POLYSTYRENE",

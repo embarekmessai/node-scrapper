@@ -1,7 +1,8 @@
 [
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : PLUME",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : plume",
@@ -41,8 +43,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : plume",
@@ -61,8 +64,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Matiere</strong> : PLUME",
             "<strong>Dimensions produit</strong> : H 9 CM",
@@ -79,8 +83,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : PLUME",
@@ -100,8 +105,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : plume",
@@ -120,8 +126,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : plume",
@@ -140,8 +147,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : plume",
@@ -161,8 +169,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : PLUME",
@@ -183,8 +192,9 @@
         ]
     },
     {
-        "title": "PLUME 30 pcs",
-        "price": "0,59 €",
+        "name": "PLUME 30 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 27 X 3",
             "<strong>Matiere</strong> : plume",

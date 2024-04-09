@@ -1,7 +1,8 @@
 [
     {
-        "title": "8 Assiettes RAYURE",
-        "price": "1,20 €",
+        "name": "8 Assiettes RAYURE",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37.5x25.5x25",
             "<strong>Matiere</strong> : CARTON",
@@ -26,8 +27,9 @@
         ]
     },
     {
-        "title": "8 Gobelets RAYURE",
-        "price": "0,98 €",
+        "name": "8 Gobelets RAYURE",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -52,8 +54,9 @@
         ]
     },
     {
-        "title": "8 Assiettes RAYURE",
-        "price": "1,20 €",
+        "name": "8 Assiettes RAYURE",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37.5x25.5x25",
             "<strong>Matiere</strong> : CARTON",
@@ -86,8 +89,9 @@
         ]
     },
     {
-        "title": "20 Serviettes RAYURE",
-        "price": "0,95 €",
+        "name": "20 Serviettes RAYURE",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER 2 PLIS ",
@@ -118,8 +122,9 @@
         ]
     },
     {
-        "title": "20 Serviettes RAYURE",
-        "price": "0,95 €",
+        "name": "20 Serviettes RAYURE",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : PAPIER 2 PLIS ",
@@ -144,8 +149,9 @@
         ]
     },
     {
-        "title": "8 Gobelets RAYURE",
-        "price": "0,98 €",
+        "name": "8 Gobelets RAYURE",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",

@@ -1,7 +1,8 @@
 [
     {
-        "title": "Ménagère PRESTIGE argent 40 pièces",
-        "price": "2,30 €",
+        "name": "Ménagère PRESTIGE argent 40 pièces",
+        "type": "simple",
+        "regular_price": "2,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "Gobelet VIVE LES MARIES 10 PIECES",
-        "price": "0,89 €",
+        "name": "Gobelet VIVE LES MARIES 10 PIECES",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -40,8 +42,9 @@
         ]
     },
     {
-        "title": "Assiette VIVE LES MARIES 10 PIECES",
-        "price": "0,98 €",
+        "name": "Assiette VIVE LES MARIES 10 PIECES",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37.5x25.5x25",
             "<strong>Matiere</strong> : CARTON",
@@ -60,8 +63,9 @@
         ]
     },
     {
-        "title": "Livre d'or Vive les Mariés",
-        "price": "5,90 €",
+        "name": "Livre d'or Vive les Mariés",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 25 X25",
             "<strong>Matiere</strong> : PAPIER",
@@ -84,8 +88,9 @@
         ]
     },
     {
-        "title": "Ménagère PRESTIGE argent 40 pièces",
-        "price": "2,30 €",
+        "name": "Ménagère PRESTIGE argent 40 pièces",
+        "type": "simple",
+        "regular_price": "2,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -110,8 +115,9 @@
         ]
     },
     {
-        "title": "Ballon 8 pièces vive les maries",
-        "price": "1,20 €",
+        "name": "Ballon 8 pièces vive les maries",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25x35x1.5cm",
             "<strong>Matiere</strong> : LATEX",
@@ -128,8 +134,9 @@
         ]
     },
     {
-        "title": "Livre d'or Vive les Mariés",
-        "price": "6,20 €",
+        "name": "Livre d'or Vive les Mariés",
+        "type": "simple",
+        "regular_price": "6,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 25 X25",
             "<strong>Matiere</strong> : PAPIER",
@@ -150,8 +157,9 @@
         ]
     },
     {
-        "title": "Serviette VIVE LES MARIES 20 pièces",
-        "price": "0,96 €",
+        "name": "Serviette VIVE LES MARIES 20 pièces",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39x35x49",
             "<strong>Matiere</strong> : PAPIER 3 PLIS",
@@ -172,8 +180,9 @@
         ]
     },
     {
-        "title": "Ménagère PRESTIGE   OR 40 ¨PIECES",
-        "price": "3,40 €",
+        "name": "Ménagère PRESTIGE   OR 40 ¨PIECES",
+        "type": "simple",
+        "regular_price": "3,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -190,8 +199,9 @@
         ]
     },
     {
-        "title": "Serviette VIVE LES MARIES 20 pièces",
-        "price": "1,89 €",
+        "name": "Serviette VIVE LES MARIES 20 pièces",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39x35x49",
             "<strong>Matiere</strong> : PAPIER 3 PLIS",
@@ -208,8 +218,9 @@
         ]
     },
     {
-        "title": "Urne VIVE LES MARIES",
-        "price": "5,90 €",
+        "name": "Urne VIVE LES MARIES",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X 32X32",
             "<strong>Matiere</strong> : CARTON",

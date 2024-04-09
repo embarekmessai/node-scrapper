@@ -1,7 +1,8 @@
 [
     {
-        "title": " 4   PORTE-NOM ARDOISE/BOIS ",
-        "price": "1,19 €",
+        "name": " 4   PORTE-NOM ARDOISE/BOIS ",
+        "type": "simple",
+        "regular_price": "1,19 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31 X 23",
             "<strong>Matiere</strong> : ARDOISE",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "TABLEAU MARQUE PLACE",
-        "price": "4,40 €",
+        "name": "TABLEAU MARQUE PLACE",
+        "type": "simple",
+        "regular_price": "4,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 60 X 40 X 30",
             "<strong>Matiere</strong> : BOIS",
@@ -38,8 +40,9 @@
         ]
     },
     {
-        "title": "TABLEAU ARDOISE/BOIS GM  ",
-        "price": "1,49 €",
+        "name": "TABLEAU ARDOISE/BOIS GM  ",
+        "type": "simple",
+        "regular_price": "1,49 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31 X 23",
             "<strong>Matiere</strong> : ARDOISE",
@@ -60,8 +63,9 @@
         ]
     },
     {
-        "title": "ARDOISE GM NATURELLE",
-        "price": "2,20 €",
+        "name": "ARDOISE GM NATURELLE",
+        "type": "simple",
+        "regular_price": "2,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 31 X 23",
             "<strong>Matiere</strong> : ARDOISE",

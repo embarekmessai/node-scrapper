@@ -1,7 +1,8 @@
 [
     {
-        "title": "NOEUD GEANT diametre 24cm X80 MM",
-        "price": "0,96 €",
+        "name": "NOEUD GEANT diametre 24cm X80 MM",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Matiere</strong> : POLYPROPLYNE",
             "<strong>Dimensions produit</strong> : 24cm X80 MM",
@@ -16,8 +17,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "0,90 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30  X 30 X5",
             "<strong>Matiere</strong> : polypropylene",
@@ -38,8 +40,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "0,90 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30  X 30 X5",
             "<strong>Matiere</strong> : polypropylene",
@@ -60,8 +63,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "0,90 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30  X 30 X5",
             "<strong>Matiere</strong> : polypropylene",
@@ -82,8 +86,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "1,28 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "1,28 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 X 30 X 15",
             "<strong>Matiere</strong> : polypropylene",
@@ -102,8 +107,9 @@
         ]
     },
     {
-        "title": "NOEUD TULLE 2 pcs",
-        "price": "1,34 €",
+        "name": "NOEUD TULLE 2 pcs",
+        "type": "simple",
+        "regular_price": "1,34 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 33 X 30 X 5",
             "<strong>Matiere</strong> : POLYPROPYLENE  ET TULLE",
@@ -124,8 +130,9 @@
         ]
     },
     {
-        "title": "NOEUD TULLE 2 pcs",
-        "price": "1,34 €",
+        "name": "NOEUD TULLE 2 pcs",
+        "type": "simple",
+        "regular_price": "1,34 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 33 X 30 X 5",
             "<strong>Matiere</strong> : POLYPROPYLENE  ET TULLE",
@@ -148,8 +155,9 @@
         ]
     },
     {
-        "title": "NOEUD TULLE 2 pcs",
-        "price": "1,34 €",
+        "name": "NOEUD TULLE 2 pcs",
+        "type": "simple",
+        "regular_price": "1,34 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 33 X 30 X 5",
             "<strong>Matiere</strong> : POLYPROPYLENE  ET TULLE",
@@ -172,8 +180,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "0,90 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30  X 30 X5",
             "<strong>Matiere</strong> : polypropylene",
@@ -192,8 +201,9 @@
         ]
     },
     {
-        "title": "NOEUD GEANT diametre 24cm X80 MM",
-        "price": "0,96 €",
+        "name": "NOEUD GEANT diametre 24cm X80 MM",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Matiere</strong> : POLYPROPLYNE",
             "<strong>Dimensions produit</strong> : 24cm X80 MM",
@@ -216,8 +226,9 @@
         ]
     },
     {
-        "title": "NOEUD GEANT diametre 24cm X80 MM",
-        "price": "0,96 €",
+        "name": "NOEUD GEANT diametre 24cm X80 MM",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Matiere</strong> : POLYPROPLYNE",
             "<strong>Dimensions produit</strong> : 24cm X80 MM",
@@ -240,8 +251,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "0,90 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30  X 30 X5",
             "<strong>Matiere</strong> : polypropylene",
@@ -262,8 +274,9 @@
         ]
     },
     {
-        "title": "NOEUD GEANT diametre 24cm X80 MM",
-        "price": "0,96 €",
+        "name": "NOEUD GEANT diametre 24cm X80 MM",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Matiere</strong> : POLYPROPLYNE",
             "<strong>Dimensions produit</strong> : 24cm X80 MM",
@@ -278,8 +291,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "0,90 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30  X 30 X5",
             "<strong>Matiere</strong> : polypropylene",
@@ -300,8 +314,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "1,28 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "1,28 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 X 30 X 15",
             "<strong>Matiere</strong> : POLYPROPLYNE",
@@ -320,8 +335,9 @@
         ]
     },
     {
-        "title": "NOEUD TULLE 2 pcs",
-        "price": "1,34 €",
+        "name": "NOEUD TULLE 2 pcs",
+        "type": "simple",
+        "regular_price": "1,34 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 33 X 30 X 5",
             "<strong>Matiere</strong> : POLYPROPYLENE  ET TULLE",
@@ -344,8 +360,9 @@
         ]
     },
     {
-        "title": "NOEUDS A TIRER 2pcs",
-        "price": "0,90 €",
+        "name": "NOEUDS A TIRER 2pcs",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30  X 30 X5",
             "<strong>Matiere</strong> : polypropylene",
@@ -366,8 +383,9 @@
         ]
     },
     {
-        "title": "NOEUD TULLE 2 pcs",
-        "price": "1,34 €",
+        "name": "NOEUD TULLE 2 pcs",
+        "type": "simple",
+        "regular_price": "1,34 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 33 X 30 X 5",
             "<strong>Matiere</strong> : POLYPROPYLENE  ET TULLE",

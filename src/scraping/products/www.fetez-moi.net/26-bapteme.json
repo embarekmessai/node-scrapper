@@ -1,7 +1,8 @@
 [
     {
-        "title": "CAGE OURSON 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE OURSON 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -12,8 +13,9 @@
         "images": []
     },
     {
-        "title": "CAGE CROIX 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE CROIX 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -24,8 +26,9 @@
         "images": []
     },
     {
-        "title": "CAGE  BAPTEME 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE  BAPTEME 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -36,8 +39,9 @@
         "images": []
     },
     {
-        "title": "CAGE A OISEAU JUST MARRIED 10 PIÈCES",
-        "price": "1,40 €",
+        "name": "CAGE A OISEAU JUST MARRIED 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -56,8 +60,9 @@
         ]
     },
     {
-        "title": "CAGE  BAPTEME 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE  BAPTEME 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -68,8 +73,9 @@
         "images": []
     },
     {
-        "title": "CAGE LOVE 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE LOVE 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -83,8 +89,9 @@
         ]
     },
     {
-        "title": "BALLOTIN KRAFT avec étiquettes et cordon 10 PIÈCES",
-        "price": "1,50 €",
+        "name": "BALLOTIN KRAFT avec étiquettes et cordon 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,50 €",
         "description": [
             "<strong>Matiere</strong> : KRAFT ",
             "<strong>Dimensions produit</strong> : 7x7x6CM",
@@ -102,8 +109,9 @@
         ]
     },
     {
-        "title": "CAGE LOVE 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE LOVE 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -117,8 +125,9 @@
         ]
     },
     {
-        "title": "BERLINGOT KRAFT avec étiquettes et cordon 10 PIÈCES",
-        "price": "1,10 €",
+        "name": "BERLINGOT KRAFT avec étiquettes et cordon 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Matiere</strong> : KRAFT ",
             "<strong>Dimensions produit</strong> : 12x9x2,3 ",
@@ -141,8 +150,9 @@
         ]
     },
     {
-        "title": "CAGE OURSON 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE OURSON 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -156,8 +166,9 @@
         ]
     },
     {
-        "title": "CAGE  COMMUNION  10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE  COMMUNION  10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -171,8 +182,9 @@
         ]
     },
     {
-        "title": "CAGE  COMMUNION  10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE  COMMUNION  10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -183,8 +195,9 @@
         "images": []
     },
     {
-        "title": "CAGE CROIX 10 PIÈCES",
-        "price": "1,47 €",
+        "name": "CAGE CROIX 10 PIÈCES",
+        "type": "simple",
+        "regular_price": "1,47 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 9x9CM",
@@ -195,8 +208,9 @@
         "images": []
     },
     {
-        "title": "BOITE RONDE KRAFT LA PIECE",
-        "price": "0,48 €",
+        "name": "BOITE RONDE KRAFT LA PIECE",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Matiere</strong> : KRAFT ",
             "<strong>Dimensions produit</strong> : DIAMETRE 5CM - HAUTEUR 4.5CM",
@@ -224,8 +238,9 @@
         ]
     },
     {
-        "title": "BOITE CARRÉE (ruban+étiquette) les 10 pièces",
-        "price": "1,50 €",
+        "name": "BOITE CARRÉE (ruban+étiquette) les 10 pièces",
+        "type": "simple",
+        "regular_price": "1,50 €",
         "description": [
             "<strong>Matiere</strong> : KRAFT ",
             "<strong>Dimensions produit</strong> : 6x6x2.5CM",

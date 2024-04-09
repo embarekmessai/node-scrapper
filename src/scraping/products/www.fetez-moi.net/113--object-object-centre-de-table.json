@@ -1,7 +1,8 @@
 [
     {
-        "title": "Couple de Colombes",
-        "price": "1,59 €",
+        "name": "Couple de Colombes",
+        "type": "simple",
+        "regular_price": "1,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 34 X 33 X 33",
             "<strong>Matiere</strong> : PLUME",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "BAR A BONBON la piece",
-        "price": "4,90 €",
+        "name": "BAR A BONBON la piece",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44.50 X 12 X 3.50",
             "<strong>Matiere</strong> : BOIS",
@@ -38,8 +40,9 @@
         ]
     },
     {
-        "title": "BAR A BONBON la piece",
-        "price": "4,90 €",
+        "name": "BAR A BONBON la piece",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44.50 X 12 X 3.50",
             "<strong>Matiere</strong> : BOIS",
@@ -60,8 +63,9 @@
         ]
     },
     {
-        "title": "mariage la pièce",
-        "price": "5,90 €",
+        "name": "mariage la pièce",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 12 X 20",
             "<strong>Matiere</strong> : BOIS",
@@ -75,8 +79,9 @@
         "images": []
     },
     {
-        "title": "BAR A BONBON la piece",
-        "price": "4,90 €",
+        "name": "BAR A BONBON la piece",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44.50 X 12 X 3.50",
             "<strong>Matiere</strong> : BOIS",
@@ -100,8 +105,9 @@
         ]
     },
     {
-        "title": "BABY SHOWER en bois la pièce",
-        "price": "5,29 €",
+        "name": "BABY SHOWER en bois la pièce",
+        "type": "simple",
+        "regular_price": "5,29 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 12 X 20",
             "<strong>Matiere</strong> : BOIS",
@@ -128,8 +134,9 @@
         ]
     },
     {
-        "title": "JOYEUX ANNIVERSAIRE en bois la pièce",
-        "price": "5,90 €",
+        "name": "JOYEUX ANNIVERSAIRE en bois la pièce",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 12 X 20",
             "<strong>Matiere</strong> : BOIS",
@@ -156,8 +163,9 @@
         ]
     },
     {
-        "title": "JOYEUX ANNIVERSAIRE en bois la pièce",
-        "price": "5,90 €",
+        "name": "JOYEUX ANNIVERSAIRE en bois la pièce",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 12 X 20",
             "<strong>Matiere</strong> : BOIS",
@@ -183,8 +191,9 @@
         ]
     },
     {
-        "title": "BAR A BONBON la piece",
-        "price": "4,90 €",
+        "name": "BAR A BONBON la piece",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44.50 X 12 X 3.50",
             "<strong>Matiere</strong> : BOIS",
@@ -205,8 +214,9 @@
         ]
     },
     {
-        "title": "BAR A BONBON la piece",
-        "price": "4,90 €",
+        "name": "BAR A BONBON la piece",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44.5X12X3.5",
             "<strong>Matiere</strong> : BOIS",

@@ -1,7 +1,8 @@
 [
     {
-        "title": "boites rondes  bois 5 pcs   & caissette ",
-        "price": "3,10 €",
+        "name": "boites rondes  bois 5 pcs   & caissette ",
+        "type": "simple",
+        "regular_price": "3,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -19,8 +20,9 @@
         ]
     },
     {
-        "title": "POT  A  SAUCE 25 PCS",
-        "price": "3,50 €",
+        "name": "POT  A  SAUCE 25 PCS",
+        "type": "simple",
+        "regular_price": "3,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : KRAFT",
@@ -35,8 +37,9 @@
         "images": []
     },
     {
-        "title": "Boites carrées  bois  6pcs   & caissette ",
-        "price": "4,90 €",
+        "name": "Boites carrées  bois  6pcs   & caissette ",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -51,8 +54,9 @@
         "images": []
     },
     {
-        "title": "Cônes apero 100.pcs  ",
-        "price": "2,50 €",
+        "name": "Cônes apero 100.pcs  ",
+        "type": "simple",
+        "regular_price": "2,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -69,8 +73,9 @@
         ]
     },
     {
-        "title": "VERRINE COMBO  10  pcs-180ml",
-        "price": "2,56 €",
+        "name": "VERRINE COMBO  10  pcs-180ml",
+        "type": "simple",
+        "regular_price": "2,56 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -88,8 +93,9 @@
         ]
     },
     {
-        "title": "POT TRANSPARENT",
-        "price": "0,40 €",
+        "name": "POT TRANSPARENT",
+        "type": "simple",
+        "regular_price": "0,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 27.5 X 14 X 6.5 CM",
             "<strong>Matiere</strong> : VERRE",
@@ -106,8 +112,9 @@
         ]
     },
     {
-        "title": "Boites carrées  bois  6pcs   & caissette ",
-        "price": "4,90 €",
+        "name": "Boites carrées  bois  6pcs   & caissette ",
+        "type": "simple",
+        "regular_price": "4,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -121,8 +128,9 @@
         "images": []
     },
     {
-        "title": "BOULE  VERRE",
-        "price": "0,90 €",
+        "name": "BOULE  VERRE",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 52X40X25",
             "<strong>Matiere</strong> : VERRE",
@@ -138,8 +146,9 @@
         "images": []
     },
     {
-        "title": "VERRINE GOUTTES  25 PCS - FIBRE DE CANNE AUCRE",
-        "price": "1,89 €",
+        "name": "VERRINE GOUTTES  25 PCS - FIBRE DE CANNE AUCRE",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37X29X37.5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -152,8 +161,9 @@
         "images": []
     },
     {
-        "title": "FEUILLES 25 PCS VERRINE -  FIBRE DE CANNE A SUCRE",
-        "price": "1,89 €",
+        "name": "FEUILLES 25 PCS VERRINE -  FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37X29X37.5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -169,8 +179,9 @@
         ]
     },
     {
-        "title": "Boites rondes bois  6 pcs   & caissette ",
-        "price": "3,20 €",
+        "name": "Boites rondes bois  6 pcs   & caissette ",
+        "type": "simple",
+        "regular_price": "3,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -188,8 +199,9 @@
         ]
     },
     {
-        "title": "piques aperitif  golf 100 pcs   ",
-        "price": "0,52 €",
+        "name": "piques aperitif  golf 100 pcs   ",
+        "type": "simple",
+        "regular_price": "0,52 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X20X20CM",
             "<strong>Matiere</strong> : BAMBOU",
@@ -203,8 +215,9 @@
         "images": []
     },
     {
-        "title": "Verrines bois  les 50 pieces",
-        "price": "4,50 €",
+        "name": "Verrines bois  les 50 pieces",
+        "type": "simple",
+        "regular_price": "4,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -222,8 +235,9 @@
         ]
     },
     {
-        "title": "piques boule rouge 100 pcs",
-        "price": "1,60 €",
+        "name": "piques boule rouge 100 pcs",
+        "type": "simple",
+        "regular_price": "1,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 12 cm",
             "<strong>Matiere</strong> : Bambou",
@@ -240,8 +254,9 @@
         ]
     },
     {
-        "title": "Cônes apero  50 pcs ",
-        "price": "2,30 €",
+        "name": "Cônes apero  50 pcs ",
+        "type": "simple",
+        "regular_price": "2,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -260,8 +275,9 @@
         ]
     },
     {
-        "title": "COFFRET CARREE VERRE",
-        "price": "0,59 €",
+        "name": "COFFRET CARREE VERRE",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46X35X20 CM",
             "<strong>Matiere</strong> : VERRE",
@@ -277,8 +293,9 @@
         "images": []
     },
     {
-        "title": "VERRINE PLATEAU  25 PCS - FIBRE DE CANNE A SUCRE",
-        "price": "1,89 €",
+        "name": "VERRINE PLATEAU  25 PCS - FIBRE DE CANNE A SUCRE",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37X29X37.5CM",
             "<strong>Matiere</strong> : FIBRE DE CANNE A SUCRE COMPOSTABLE",
@@ -292,8 +309,9 @@
         "images": []
     },
     {
-        "title": "boites rondes  bois 6 pcs   & caissette ",
-        "price": "3,10 €",
+        "name": "boites rondes  bois 6 pcs   & caissette ",
+        "type": "simple",
+        "regular_price": "3,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -311,8 +329,9 @@
         ]
     },
     {
-        "title": "Verrine Coupelle les 10 pièces",
-        "price": "1,60 €",
+        "name": "Verrine Coupelle les 10 pièces",
+        "type": "simple",
+        "regular_price": "1,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -355,8 +374,9 @@
         ]
     },
     {
-        "title": "Coupe fruits  10  PCS  20 CL",
-        "price": "6,15 €",
+        "name": "Coupe fruits  10  PCS  20 CL",
+        "type": "simple",
+        "regular_price": "6,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : PP",
@@ -374,8 +394,9 @@
         ]
     },
     {
-        "title": "bateaux  100 pcs   ",
-        "price": "2,30 €",
+        "name": "bateaux  100 pcs   ",
+        "type": "simple",
+        "regular_price": "2,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BOIS ",
@@ -393,8 +414,9 @@
         ]
     },
     {
-        "title": " bateaux 50 pcs  ",
-        "price": "1,80 €",
+        "name": " bateaux 50 pcs  ",
+        "type": "simple",
+        "regular_price": "1,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X10 X20",
             "<strong>Matiere</strong> : BOIS ",
@@ -412,8 +434,9 @@
         ]
     },
     {
-        "title": "piques brochette  100 pcs   ",
-        "price": "0,59 €",
+        "name": "piques brochette  100 pcs   ",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : BAMBOU",
@@ -427,8 +450,9 @@
         "images": []
     },
     {
-        "title": "Verrine cube les 10 pcs-59ml",
-        "price": "1,40 €",
+        "name": "Verrine cube les 10 pcs-59ml",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32x27.5x50",
             "<strong>Matiere</strong> : PLASTIQUE",

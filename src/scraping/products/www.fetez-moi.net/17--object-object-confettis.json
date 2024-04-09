@@ -1,7 +1,8 @@
 [
     {
-        "title": "CONFETTIS PRINCESSE 18GR",
-        "price": "0,54 €",
+        "name": "CONFETTIS PRINCESSE 18GR",
+        "type": "simple",
+        "regular_price": "0,54 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 16.5 X 6",
             "<strong>Matiere</strong> : papier métallisée",

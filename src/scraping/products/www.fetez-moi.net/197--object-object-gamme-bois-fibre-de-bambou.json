@@ -1,7 +1,8 @@
 [
     {
-        "title": "Cuillères en Bois 100 pièces",
-        "price": "2,40 €",
+        "name": "Cuillères en Bois 100 pièces",
+        "type": "simple",
+        "regular_price": "2,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19.5X25X30",
             "<strong>Matiere</strong> : BOIS",
@@ -19,8 +20,9 @@
         ]
     },
     {
-        "title": "ASSIETTES  6  pieces  CARRÉES ",
-        "price": "1,40 €",
+        "name": "ASSIETTES  6  pieces  CARRÉES ",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39  X 39 X29 ",
             "<strong>Matiere</strong> : FEUILLE DE PALMIER",
@@ -37,8 +39,9 @@
         ]
     },
     {
-        "title": "Couteaux en Bois  12  pièces",
-        "price": "0,29 €",
+        "name": "Couteaux en Bois  12  pièces",
+        "type": "simple",
+        "regular_price": "0,29 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21X16X22",
             "<strong>Matiere</strong> : BOIS",
@@ -52,8 +55,9 @@
         "images": []
     },
     {
-        "title": "Fourchettes en Bois 12pièces",
-        "price": "0,29 €",
+        "name": "Fourchettes en Bois 12pièces",
+        "type": "simple",
+        "regular_price": "0,29 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22.5X32X23",
             "<strong>Matiere</strong> : BOIS",
@@ -71,8 +75,9 @@
         ]
     },
     {
-        "title": "Cuillères en Bois 12 pièces",
-        "price": "0,33 €",
+        "name": "Cuillères en Bois 12 pièces",
+        "type": "simple",
+        "regular_price": "0,33 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19.5X25X30",
             "<strong>Matiere</strong> : BOIS",
@@ -90,8 +95,9 @@
         ]
     },
     {
-        "title": "CUILLERE",
-        "price": "0,39 €",
+        "name": "CUILLERE",
+        "type": "simple",
+        "regular_price": "0,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X26X24",
             "<strong>Matiere</strong> : BOIS",
@@ -108,8 +114,9 @@
         ]
     },
     {
-        "title": "ASSIETTES  20 pieces CARRÉES ",
-        "price": "3,95 €",
+        "name": "ASSIETTES  20 pieces CARRÉES ",
+        "type": "simple",
+        "regular_price": "3,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 39  X 39 X29 ",
             "<strong>Matiere</strong> : FEUILLE DE PALMIER",
@@ -126,8 +133,9 @@
         ]
     },
     {
-        "title": "CURE DENTS EN BOIS 2x250 PIÈCES",
-        "price": "0,78 €",
+        "name": "CURE DENTS EN BOIS 2x250 PIÈCES",
+        "type": "simple",
+        "regular_price": "0,78 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : BOIS",
@@ -146,8 +154,9 @@
         ]
     },
     {
-        "title": "Assiettes 20 pieces  ronde bois de Palmier  ",
-        "price": "3,60 €",
+        "name": "Assiettes 20 pieces  ronde bois de Palmier  ",
+        "type": "simple",
+        "regular_price": "3,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 48 X48 X35",
             "<strong>Matiere</strong> : FEUILLE  DE PALMIER ",
@@ -164,8 +173,9 @@
         ]
     },
     {
-        "title": "PIQUE APÉRITIF 40 pièces - 10 CM",
-        "price": "0,78 €",
+        "name": "PIQUE APÉRITIF 40 pièces - 10 CM",
+        "type": "simple",
+        "regular_price": "0,78 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : BAMBOU",
@@ -182,8 +192,9 @@
         ]
     },
     {
-        "title": "BOLS    BOIS DE PALMIER 6 PIECES 200 ml",
-        "price": "1,12 €",
+        "name": "BOLS    BOIS DE PALMIER 6 PIECES 200 ml",
+        "type": "simple",
+        "regular_price": "1,12 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5X26.5 X26 ",
             "<strong>Matiere</strong> : FEUILLE DE PALMIER",
@@ -202,8 +213,9 @@
         ]
     },
     {
-        "title": "PIQUE APÉRITIF 50 pièces",
-        "price": "0,39 €",
+        "name": "PIQUE APÉRITIF 50 pièces",
+        "type": "simple",
+        "regular_price": "0,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : BAMBOU",
@@ -226,8 +238,9 @@
         ]
     },
     {
-        "title": "SET 4/1 FOURCHETTE -COUTEAU-CUILLERE -SERVIETTE",
-        "price": "0,10 €",
+        "name": "SET 4/1 FOURCHETTE -COUTEAU-CUILLERE -SERVIETTE",
+        "type": "simple",
+        "regular_price": "0,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23 X 14 X 34",
             "<strong>Matiere</strong> : BOIS",
@@ -245,8 +258,9 @@
         ]
     },
     {
-        "title": "ROND SERVIETTE EN BOIS LA PIÈCE",
-        "price": "0,36 €",
+        "name": "ROND SERVIETTE EN BOIS LA PIÈCE",
+        "type": "simple",
+        "regular_price": "0,36 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5x18.5x27.5",
             "<strong>Matiere</strong> : BOIS ",
@@ -269,8 +283,9 @@
         ]
     },
     {
-        "title": "Fourchettes en Bois 100 pièces",
-        "price": "2,20 €",
+        "name": "Fourchettes en Bois 100 pièces",
+        "type": "simple",
+        "regular_price": "2,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22.5X32X23",
             "<strong>Matiere</strong> : BOIS",
@@ -288,8 +303,9 @@
         ]
     },
     {
-        "title": "AGITATEUR EN BOIS 40 PIÈCES",
-        "price": "0,36 €",
+        "name": "AGITATEUR EN BOIS 40 PIÈCES",
+        "type": "simple",
+        "regular_price": "0,36 €",
         "description": [
             "<strong>Matiere</strong> : BOIS",
             "<strong>Dimensions produit</strong> : 14CMX5MM",
@@ -309,8 +325,9 @@
         ]
     },
     {
-        "title": "PIQUE APÉRITIF BOIS 40 pièces - 30 CM",
-        "price": "0,48 €",
+        "name": "PIQUE APÉRITIF BOIS 40 pièces - 30 CM",
+        "type": "simple",
+        "regular_price": "0,48 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : BOIS",
@@ -331,8 +348,9 @@
         ]
     },
     {
-        "title": "Couteaux en Bois 100  pièces",
-        "price": "1,70 €",
+        "name": "Couteaux en Bois 100  pièces",
+        "type": "simple",
+        "regular_price": "1,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21X16X22",
             "<strong>Matiere</strong> : BOIS",

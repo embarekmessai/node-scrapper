@@ -1,7 +1,8 @@
 [
     {
-        "title": "VERRE DIAMANT 25 (20CL)",
-        "price": "1,25 €",
+        "name": "VERRE DIAMANT 25 (20CL)",
+        "type": "simple",
+        "regular_price": "1,25 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 X 44 X50",
             "<strong>Matiere</strong> : PET",
@@ -23,8 +24,9 @@
         ]
     },
     {
-        "title": "Verre cristal liseré or 25CL (10pièces)",
-        "price": "1,80 €",
+        "name": "Verre cristal liseré or 25CL (10pièces)",
+        "type": "simple",
+        "regular_price": "1,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40X27X18",
             "<strong>Matiere</strong> : Plastique",
@@ -39,8 +41,9 @@
         "images": []
     },
     {
-        "title": "flûte à champagne  6 PICES3",
-        "price": "1,70 €",
+        "name": "flûte à champagne  6 PICES3",
+        "type": "simple",
+        "regular_price": "1,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 39 X 32",
             "<strong>Matiere</strong> : POLYSTYRENE INJECTE",
@@ -60,8 +63,9 @@
         ]
     },
     {
-        "title": "Verre cristal liseré argent 25CL (10pièces)",
-        "price": "1,80 €",
+        "name": "Verre cristal liseré argent 25CL (10pièces)",
+        "type": "simple",
+        "regular_price": "1,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 48X27X18",
             "<strong>Matiere</strong> : Plastique",
@@ -85,8 +89,9 @@
         ]
     },
     {
-        "title": "FLUTE 6 pcs (13cl)  REUTILISABLE",
-        "price": "0,99 €",
+        "name": "FLUTE 6 pcs (13cl)  REUTILISABLE",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 39 X 32",
             "<strong>Matiere</strong> : POLYSTYRENE INJECTE",
@@ -100,8 +105,9 @@
         "images": []
     },
     {
-        "title": "Verre cristal liseré or 25CL (10pièces)",
-        "price": "1,80 €",
+        "name": "Verre cristal liseré or 25CL (10pièces)",
+        "type": "simple",
+        "regular_price": "1,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40X27X18",
             "<strong>Matiere</strong> : Plastique",
@@ -121,8 +127,9 @@
         ]
     },
     {
-        "title": "VERRE A VIN 6pcs (13cl)",
-        "price": "1,70 €",
+        "name": "VERRE A VIN 6pcs (13cl)",
+        "type": "simple",
+        "regular_price": "1,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 37 X 39 X 32",
             "<strong>Matiere</strong> : POLYSTYRENE INJECTE",
@@ -136,8 +143,9 @@
         "images": []
     },
     {
-        "title": "VERRE 20 PIECES  (30CL)",
-        "price": "1,49 €",
+        "name": "VERRE 20 PIECES  (30CL)",
+        "type": "simple",
+        "regular_price": "1,49 €",
         "description": [
             "<strong>Matiere</strong> : Plastique",
             "<strong>Colisage</strong> : 36",
@@ -151,8 +159,9 @@
         ]
     },
     {
-        "title": "Verre argent 10 pièces",
-        "price": "1,78 €",
+        "name": "Verre argent 10 pièces",
+        "type": "simple",
+        "regular_price": "1,78 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 x 40 x 20",
             "<strong>Matiere</strong> : plastique facon inox",
@@ -174,8 +183,9 @@
         ]
     },
     {
-        "title": "shot  cristal 50 pieces 30ml",
-        "price": "1,49 €",
+        "name": "shot  cristal 50 pieces 30ml",
+        "type": "simple",
+        "regular_price": "1,49 €",
         "description": [
             "<strong>Matiere</strong> : Plastique",
             "<strong>Colisage</strong> : 12",

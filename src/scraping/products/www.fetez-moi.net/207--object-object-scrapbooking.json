@@ -1,7 +1,8 @@
 [
     {
-        "title": "STICKER ROND STRASS 40 pcs",
-        "price": "0,60 €",
+        "name": "STICKER ROND STRASS 40 pcs",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 19 X 12 X 9",
             "<strong>Matiere</strong> : POLYPROPYLENE",
@@ -22,8 +23,9 @@
         ]
     },
     {
-        "title": "FIL STRASSE ADHESIF 4 pcs",
-        "price": "1,40 €",
+        "name": "FIL STRASSE ADHESIF 4 pcs",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 85 X 8",
             "<strong>Matiere</strong> : POLYPROPYLENE",
@@ -44,8 +46,9 @@
         ]
     },
     {
-        "title": "PINCE A LINGE 12 pcs",
-        "price": "0,99 €",
+        "name": "PINCE A LINGE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 14 X 8",
             "<strong>Matiere</strong> : BOIS",
@@ -62,8 +65,9 @@
         ]
     },
     {
-        "title": "PINCE A LINGE 12 pcs",
-        "price": "0,99 €",
+        "name": "PINCE A LINGE 12 pcs",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 14 X 8",
             "<strong>Matiere</strong> : BOIS",

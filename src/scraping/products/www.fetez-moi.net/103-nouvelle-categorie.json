@@ -1,7 +1,8 @@
 [
     {
-        "title": "Nappe effet tissu 10mx1.20m",
-        "price": "4,32 €",
+        "name": "Nappe effet tissu 10mx1.20m",
+        "type": "simple",
+        "regular_price": "4,32 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : SOFT",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "Ballon 8 pièces ballon de football",
-        "price": "1,20 €",
+        "name": "Ballon 8 pièces ballon de football",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25x35x1.5cm",
             "<strong>Matiere</strong> : LATEX",
@@ -38,8 +40,9 @@
         ]
     },
     {
-        "title": "Sac football les 6 pieces",
-        "price": "0,69 €",
+        "name": "Sac football les 6 pieces",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x20",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -58,8 +61,9 @@
         ]
     },
     {
-        "title": "Gobelet football les 10 pieces",
-        "price": "0,89 €",
+        "name": "Gobelet football les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -82,8 +86,9 @@
         ]
     },
     {
-        "title": "BALLON DE FOOTBALL LES 3 PIECES",
-        "price": "0,99 €",
+        "name": "BALLON DE FOOTBALL LES 3 PIECES",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 38  X 32  X  12",
             "<strong>Matiere</strong> : plastique",
@@ -106,8 +111,9 @@
         ]
     },
     {
-        "title": "Chapeau football les 6 pieces",
-        "price": "0,69 €",
+        "name": "Chapeau football les 6 pieces",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Matiere</strong> : carton",
             "<strong>Dimensions produit</strong> : 15 x 11 cm",
@@ -124,8 +130,9 @@
         ]
     },
     {
-        "title": "Chemin de table football",
-        "price": "2,75 €",
+        "name": "Chemin de table football",
+        "type": "simple",
+        "regular_price": "2,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : INTISSE",
@@ -151,8 +158,9 @@
         ]
     },
     {
-        "title": "SERVIETTE 2 PLIS FOOTBALL les 20 pieces",
-        "price": "0,95 €",
+        "name": "SERVIETTE 2 PLIS FOOTBALL les 20 pieces",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : Cellulose Ouate",
@@ -175,8 +183,9 @@
         ]
     },
     {
-        "title": "ROULEAUX INTISSE 29cmx10m",
-        "price": "1,20 €",
+        "name": "ROULEAUX INTISSE 29cmx10m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -197,8 +206,9 @@
         ]
     },
     {
-        "title": "Assiette football les 10 pieces",
-        "price": "0,96 €",
+        "name": "Assiette football les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45x19x18.5",
             "<strong>Matiere</strong> : CARTON",

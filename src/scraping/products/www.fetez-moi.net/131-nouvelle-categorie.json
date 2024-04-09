@@ -1,7 +1,8 @@
 [
     {
-        "title": "ROULEAU JUTE 20cmx5 mètres (+/- 5 nœuds de chaise)",
-        "price": "2,60 €",
+        "name": "ROULEAU JUTE 20cmx5 mètres (+/- 5 nœuds de chaise)",
+        "type": "simple",
+        "regular_price": "2,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45X41 36",
             "<strong>Matiere</strong> : JUTE",
@@ -17,8 +18,9 @@
         ]
     },
     {
-        "title": "ROULEAU LIN 20CMX5M",
-        "price": "2,99 €",
+        "name": "ROULEAU LIN 20CMX5M",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> :  20cm x 5 mètre",
@@ -34,8 +36,9 @@
         ]
     },
     {
-        "title": "NŒUDS DE CHAISE JUTE (rouleau +/- 5 nœuds)",
-        "price": "2,99 €",
+        "name": "NŒUDS DE CHAISE JUTE (rouleau +/- 5 nœuds)",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : 20cm x 5 mètre",

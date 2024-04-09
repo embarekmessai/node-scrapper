@@ -1,7 +1,8 @@
 [
     {
-        "title": "Set de table rond OR - 6 pieces",
-        "price": "2,40 €",
+        "name": "Set de table rond OR - 6 pieces",
+        "type": "simple",
+        "regular_price": "2,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -18,8 +19,10 @@
         ]
     },
     {
-        "title": "10 Sets de table rond en jute",
-        "price": "3,85 €",
+        "name": "10 Sets de table rond en jute",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "3,85 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X35X25",
             "<strong>Matiere</strong> : JUTE",
@@ -40,8 +43,10 @@
         ]
     },
     {
-        "title": "Set de table  paille",
-        "price": "0,80 €",
+        "name": "Set de table  paille",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : PAILLE",
@@ -56,8 +61,10 @@
         "images": []
     },
     {
-        "title": "Set de table rond ARGENT - 6 pieces",
-        "price": "1,51 €",
+        "name": "Set de table rond ARGENT - 6 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "1,51 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -76,8 +83,10 @@
         ]
     },
     {
-        "title": "Set de table rond uni 10 pieces",
-        "price": "0,80 €",
+        "name": "Set de table rond uni 10 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -108,8 +117,10 @@
         ]
     },
     {
-        "title": "Set de table rond uni 10 pieces",
-        "price": "0,80 €",
+        "name": "Set de table rond uni 10 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -138,8 +149,10 @@
         ]
     },
     {
-        "title": "Set de table rond uni 10 pieces",
-        "price": "0,80 €",
+        "name": "Set de table rond uni 10 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -170,8 +183,10 @@
         ]
     },
     {
-        "title": "Set de table rond uni 10 pieces",
-        "price": "0,80 €",
+        "name": "Set de table rond uni 10 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -202,8 +217,10 @@
         ]
     },
     {
-        "title": "PORTE COUVERT JUTE 4 PIECES",
-        "price": "2,14 €",
+        "name": "PORTE COUVERT JUTE 4 PIECES",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "2,14 €",
         "description": [
             "<strong>Matiere</strong> : JUTE",
             "<strong>Dimensions produit</strong> : 22x10.5cm",
@@ -226,8 +243,10 @@
         ]
     },
     {
-        "title": " 10 Sets de table rectanuglaire jute",
-        "price": "3,65 €",
+        "name": " 10 Sets de table rectanuglaire jute",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "3,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : JUTE",
@@ -241,8 +260,10 @@
         "images": []
     },
     {
-        "title": "Set de table rond OR - 6 pieces",
-        "price": "1,51 €",
+        "name": "Set de table rond OR - 6 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "1,51 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -263,8 +284,10 @@
         ]
     },
     {
-        "title": "Set de table rond uni 10 pieces",
-        "price": "0,80 €",
+        "name": "Set de table rond uni 10 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",
@@ -298,8 +321,10 @@
         ]
     },
     {
-        "title": "Set de table rond uni 10 pieces",
-        "price": "0,80 €",
+        "name": "Set de table rond uni 10 pieces",
+        "type": "simple",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 35X39X0,030CM",
             "<strong>Matiere</strong> : TISSU NON TISSE POLYESTER",

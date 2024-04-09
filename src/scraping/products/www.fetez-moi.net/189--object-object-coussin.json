@@ -1,7 +1,8 @@
 [
     {
-        "title": "COEUR PORTE-ALLIANCE  BOIS",
-        "price": "0,89 €",
+        "name": "COEUR PORTE-ALLIANCE  BOIS",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 48  X 22 X 9",
             "<strong>Matiere</strong> : BOIS",
@@ -18,8 +19,9 @@
         ]
     },
     {
-        "title": "COUSSIN LIN",
-        "price": "2,55 €",
+        "name": "COUSSIN LIN",
+        "type": "simple",
+        "regular_price": "2,55 €",
         "description": [
             "<strong>Matiere</strong> : LIN",
             "<strong>Dimensions produit</strong> : 16X16CM",
@@ -39,8 +41,9 @@
         ]
     },
     {
-        "title": "COEUR PORTE ALLIANCE",
-        "price": "3,95 €",
+        "name": "COEUR PORTE ALLIANCE",
+        "type": "simple",
+        "regular_price": "3,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 42 X 42  X 25",
             "<strong>Matiere</strong> : POLYESTER",
@@ -59,8 +62,9 @@
         ]
     },
     {
-        "title": "Coffret bijou alliance rectangle",
-        "price": "2,75 €",
+        "name": "Coffret bijou alliance rectangle",
+        "type": "simple",
+        "regular_price": "2,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44 X 34 X 32",
             "<strong>Matiere</strong> : VERRE",
@@ -76,8 +80,9 @@
         "images": []
     },
     {
-        "title": "COEUR PORTE-ALLIANCE",
-        "price": "2,52 €",
+        "name": "COEUR PORTE-ALLIANCE",
+        "type": "simple",
+        "regular_price": "2,52 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 48  X 22 X 9",
             "<strong>Matiere</strong> : POLYESTER",
@@ -96,8 +101,9 @@
         ]
     },
     {
-        "title": "COEUR PORTE-ALLIANCE",
-        "price": "2,52 €",
+        "name": "COEUR PORTE-ALLIANCE",
+        "type": "simple",
+        "regular_price": "2,52 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 48  X 22 X 9",
             "<strong>Matiere</strong> : POLYESTER",

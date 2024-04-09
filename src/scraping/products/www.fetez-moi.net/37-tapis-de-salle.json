@@ -1,7 +1,8 @@
 [
     {
-        "title": "TAPIS DE SALLE rouleau 1 x 15 mètres",
-        "price": "4,50 €",
+        "name": "TAPIS DE SALLE rouleau 1 x 15 mètres",
+        "type": "simple",
+        "regular_price": "4,50 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 103X34X37",
             "<strong>Matiere</strong> : Soft",
@@ -19,8 +20,9 @@
         ]
     },
     {
-        "title": "TAPIS DE SALLE rouleau 1 x 15 mètres",
-        "price": "0,00 €",
+        "name": "TAPIS DE SALLE rouleau 1 x 15 mètres",
+        "type": "simple",
+        "regular_price": "0,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 63 x 25 x 20",
             "<strong>Matiere</strong> : soft",
@@ -37,8 +39,9 @@
         ]
     },
     {
-        "title": "TAPIS DE SALLE rouleau 60cmx5metres",
-        "price": "1,80 €",
+        "name": "TAPIS DE SALLE rouleau 60cmx5metres",
+        "type": "simple",
+        "regular_price": "1,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 64.5x29.5x90cm",
             "<strong>Matiere</strong> : soft",
@@ -63,8 +66,9 @@
         ]
     },
     {
-        "title": "TAPIS DE SALLE rouleau 60cmx5metres",
-        "price": "1,80 €",
+        "name": "TAPIS DE SALLE rouleau 60cmx5metres",
+        "type": "simple",
+        "regular_price": "1,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 64.5x29.5x90cm",
             "<strong>Matiere</strong> : soft",

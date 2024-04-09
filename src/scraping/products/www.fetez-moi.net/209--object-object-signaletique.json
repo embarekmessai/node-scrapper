@@ -1,7 +1,8 @@
 [
     {
-        "title": "PANCARTE BOIS JUST MARRIED",
-        "price": "2,99 €",
+        "name": "PANCARTE BOIS JUST MARRIED",
+        "type": "simple",
+        "regular_price": "2,99 €",
         "description": [
             "<strong>Matiere</strong> : BOIS",
             "<strong>Dimensions produit</strong> : 25X10CM",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "FLÈCHE BLANCHE (4 pièces)",
-        "price": "1,14 €",
+        "name": "FLÈCHE BLANCHE (4 pièces)",
+        "type": "simple",
+        "regular_price": "1,14 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 50  X 20 X 15",
             "<strong>Matiere</strong> : CARTON",
@@ -42,8 +44,9 @@
         ]
     },
     {
-        "title": "PANCARTE BOIS + CRAIE",
-        "price": "2,64 €",
+        "name": "PANCARTE BOIS + CRAIE",
+        "type": "simple",
+        "regular_price": "2,64 €",
         "description": [
             "<strong>Matiere</strong> : BOIS",
             "<strong>Dimensions produit</strong> : 25X10CM",
@@ -59,8 +62,9 @@
         ]
     },
     {
-        "title": "PANCARTE BOIS CANDY BAR",
-        "price": "2,59 €",
+        "name": "PANCARTE BOIS CANDY BAR",
+        "type": "simple",
+        "regular_price": "2,59 €",
         "description": [
             "<strong>Matiere</strong> : BOIS",
             "<strong>Dimensions produit</strong> : 25X10CM",
@@ -79,8 +83,9 @@
         ]
     },
     {
-        "title": "FLÈCHE KRAFT (4 pièces)",
-        "price": "1,14 €",
+        "name": "FLÈCHE KRAFT (4 pièces)",
+        "type": "simple",
+        "regular_price": "1,14 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 50  X 20 X 15",
             "<strong>Matiere</strong> : CARTON",

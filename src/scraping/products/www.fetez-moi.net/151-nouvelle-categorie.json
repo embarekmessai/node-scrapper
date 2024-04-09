@@ -1,7 +1,8 @@
 [
     {
-        "title": "PETALES 120 pcs",
-        "price": "0,59 €",
+        "name": "PETALES 120 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 x 30 x 15",
             "<strong>Matiere</strong> : polyamide",
@@ -18,8 +19,9 @@
         ]
     },
     {
-        "title": "PETALES 120 pcs",
-        "price": "0,59 €",
+        "name": "PETALES 120 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 x 30 x 15",
             "<strong>Matiere</strong> : polyamide",
@@ -36,8 +38,9 @@
         ]
     },
     {
-        "title": "PETALES 120 pcs",
-        "price": "0,59 €",
+        "name": "PETALES 120 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 x 30 x 15",
             "<strong>Matiere</strong> : polyamide",
@@ -58,8 +61,9 @@
         ]
     },
     {
-        "title": "PETALES 120 pcs",
-        "price": "0,59 €",
+        "name": "PETALES 120 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 x 30 x 15",
             "<strong>Matiere</strong> : polyamide",
@@ -78,8 +82,9 @@
         ]
     },
     {
-        "title": "PETALES 120 pcs",
-        "price": "0,59 €",
+        "name": "PETALES 120 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 x 30 x 15",
             "<strong>Matiere</strong> : polyamide",
@@ -98,8 +103,9 @@
         ]
     },
     {
-        "title": "PETALES 120 pcs",
-        "price": "0,59 €",
+        "name": "PETALES 120 pcs",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 x 30 x 15",
             "<strong>Matiere</strong> : polyamide",

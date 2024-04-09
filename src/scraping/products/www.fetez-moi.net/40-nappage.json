@@ -1,7 +1,8 @@
 [
     {
-        "title": "NAPPE RONDE JUTE DIAM 220CM",
-        "price": "9,20 €",
+        "name": "NAPPE RONDE JUTE DIAM 220CM",
+        "type": "simple",
+        "regular_price": "9,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5x35.5x75.5cm",
             "<strong>Matiere</strong> : soft",
@@ -15,8 +16,9 @@
         "images": []
     },
     {
-        "title": "NAPPE GAUFFREE 20 m",
-        "price": "5,80 €",
+        "name": "NAPPE GAUFFREE 20 m",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER GAUFFRE",
@@ -36,8 +38,9 @@
         ]
     },
     {
-        "title": "Nappe effet tissu 50mx1.20m",
-        "price": "7,61 €",
+        "name": "Nappe effet tissu 50mx1.20m",
+        "type": "simple",
+        "regular_price": "7,61 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : SOFT",
@@ -51,8 +54,9 @@
         "images": []
     },
     {
-        "title": "Nappe effet tissu 100mx1.20m",
-        "price": "19,90 €",
+        "name": "Nappe effet tissu 100mx1.20m",
+        "type": "simple",
+        "regular_price": "19,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : SOFT",
@@ -66,8 +70,9 @@
         "images": []
     },
     {
-        "title": "Nappe damasse 50mx1.20m",
-        "price": "6,17 €",
+        "name": "Nappe damasse 50mx1.20m",
+        "type": "simple",
+        "regular_price": "6,17 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -84,8 +89,9 @@
         ]
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 1.80M",
-        "price": "1,85 €",
+        "name": "NAPPE RONDE NON TISSE diametre 1.80M",
+        "type": "simple",
+        "regular_price": "1,85 €",
         "description": [],
         "image": "https://www.fetez-moi.net/393974-large_default/535BL-nappe-ronde-non-tisse-diametre-180m.jpg",
         "images": [
@@ -94,8 +100,9 @@
         ]
     },
     {
-        "title": "Nappe effet tissu 25x1.20m",
-        "price": "4,32 €",
+        "name": "Nappe effet tissu 25x1.20m",
+        "type": "simple",
+        "regular_price": "4,32 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : SOFT",
@@ -109,8 +116,9 @@
         "images": []
     },
     {
-        "title": "Nappe effet tissu 25x1.20m",
-        "price": "4,32 €",
+        "name": "Nappe effet tissu 25x1.20m",
+        "type": "simple",
+        "regular_price": "4,32 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : SOFT",
@@ -124,8 +132,9 @@
         "images": []
     },
     {
-        "title": "Nappe effet tissu 25x1.20m",
-        "price": "4,32 €",
+        "name": "Nappe effet tissu 25x1.20m",
+        "type": "simple",
+        "regular_price": "4,32 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : SOFT",
@@ -139,8 +148,9 @@
         "images": []
     },
     {
-        "title": "Nappe ronde 100% Polyester 150X250CM",
-        "price": "9,50 €",
+        "name": "Nappe ronde 100% Polyester 150X250CM",
+        "type": "simple",
+        "regular_price": "9,50 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> : 150X250 CM",
@@ -151,8 +161,9 @@
         "images": []
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,80 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46.5x35.5x75.5cm",
             "<strong>Matiere</strong> : soft",
@@ -171,8 +182,9 @@
         ]
     },
     {
-        "title": "Nappe chabbat shalom 1,3X3M",
-        "price": "2,90 €",
+        "name": "Nappe chabbat shalom 1,3X3M",
+        "type": "simple",
+        "regular_price": "2,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 41x36.5x85cm",
             "<strong>Matiere</strong> : intissee",
@@ -189,8 +201,9 @@
         ]
     },
     {
-        "title": "Nappe damasse 5 x 1.20M",
-        "price": "2,39 €",
+        "name": "Nappe damasse 5 x 1.20M",
+        "type": "simple",
+        "regular_price": "2,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -211,8 +224,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 20Mmx1.20m",
-        "price": "5,94 €",
+        "name": "NAPPE DAMASSEE 20Mmx1.20m",
+        "type": "simple",
+        "regular_price": "5,94 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -226,8 +240,9 @@
         "images": []
     },
     {
-        "title": "Nappe chabbat shalom 1,3X3M",
-        "price": "2,90 €",
+        "name": "Nappe chabbat shalom 1,3X3M",
+        "type": "simple",
+        "regular_price": "2,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 41x36.5x85cm",
             "<strong>Matiere</strong> : intissee",
@@ -244,8 +259,9 @@
         ]
     },
     {
-        "title": "Nappe damasse 5 x 1.20M",
-        "price": "1,62 €",
+        "name": "Nappe damasse 5 x 1.20M",
+        "type": "simple",
+        "regular_price": "1,62 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -275,8 +291,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -290,8 +307,9 @@
         "images": []
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -305,8 +323,9 @@
         "images": []
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -320,8 +339,9 @@
         "images": []
     },
     {
-        "title": "NAPPE GAUFFREE 20 mx1.20m",
-        "price": "3,15 €",
+        "name": "NAPPE GAUFFREE 20 mx1.20m",
+        "type": "simple",
+        "regular_price": "3,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -340,8 +360,9 @@
         ]
     },
     {
-        "title": "ROULEAU INTISSE  20CMX100 M",
-        "price": "9,37 €",
+        "name": "ROULEAU INTISSE  20CMX100 M",
+        "type": "simple",
+        "regular_price": "9,37 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -358,8 +379,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -373,8 +395,9 @@
         "images": []
     },
     {
-        "title": "NAPPE diametre 3 m",
-        "price": "7,00 €",
+        "name": "NAPPE diametre 3 m",
+        "type": "simple",
+        "regular_price": "7,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : soft",
@@ -393,8 +416,9 @@
         ]
     },
     {
-        "title": "NAPPE GAUFFREE 20 m",
-        "price": "5,80 €",
+        "name": "NAPPE GAUFFREE 20 m",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER GAUFFRE",
@@ -414,8 +438,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -429,8 +454,9 @@
         "images": []
     },
     {
-        "title": "NAPPE DAMASSEE 20Mmx1.20m",
-        "price": "5,94 €",
+        "name": "NAPPE DAMASSEE 20Mmx1.20m",
+        "type": "simple",
+        "regular_price": "5,94 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -444,8 +470,9 @@
         "images": []
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -459,8 +486,9 @@
         "images": []
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -474,8 +502,9 @@
         "images": []
     },
     {
-        "title": "Nappe ronde 100% Polyester diametre 300cm",
-        "price": "9,50 €",
+        "name": "Nappe ronde 100% Polyester diametre 300cm",
+        "type": "simple",
+        "regular_price": "9,50 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> : Diamètre 300cm",
@@ -489,8 +518,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 50mx1.20m",
-        "price": "9,37 €",
+        "name": "NAPPE DAMASSEE 50mx1.20m",
+        "type": "simple",
+        "regular_price": "9,37 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -507,8 +537,9 @@
         ]
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,90 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : SOFT",
@@ -525,8 +556,9 @@
         ]
     },
     {
-        "title": "Nappe ronde 100% Polyester diametre 180cm",
-        "price": "9,50 €",
+        "name": "Nappe ronde 100% Polyester diametre 180cm",
+        "type": "simple",
+        "regular_price": "9,50 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> : Diamètre 180CM",
@@ -540,8 +572,9 @@
         ]
     },
     {
-        "title": "Nappe paielletée  3x 1.20M",
-        "price": "9,39 €",
+        "name": "Nappe paielletée  3x 1.20M",
+        "type": "simple",
+        "regular_price": "9,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -560,8 +593,9 @@
         ]
     },
     {
-        "title": "Nappe LIN 1.5X 2,5metres (bord cousu)",
-        "price": "12,90 €",
+        "name": "Nappe LIN 1.5X 2,5metres (bord cousu)",
+        "type": "simple",
+        "regular_price": "12,90 €",
         "description": [
             "<strong>Matiere</strong> : LIN",
             "<strong>Dimensions produit</strong> : 1.5 X 2,5M",
@@ -582,8 +616,9 @@
         ]
     },
     {
-        "title": "NAPPE GAUFFREE 20 m",
-        "price": "5,80 €",
+        "name": "NAPPE GAUFFREE 20 m",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER GAUFFRE",
@@ -603,8 +638,9 @@
         ]
     },
     {
-        "title": "Nappe effet tissu 10mx1.20m",
-        "price": "4,32 €",
+        "name": "Nappe effet tissu 10mx1.20m",
+        "type": "simple",
+        "regular_price": "4,32 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30X40X20",
             "<strong>Matiere</strong> : SOFT",
@@ -623,8 +659,9 @@
         ]
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,90 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : soft",
@@ -639,8 +676,9 @@
         ]
     },
     {
-        "title": "NAPPE GAUFFREE 20 m",
-        "price": "5,80 €",
+        "name": "NAPPE GAUFFREE 20 m",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER GAUFFRE",
@@ -659,8 +697,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "3,70 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "3,70 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -674,8 +713,9 @@
         "images": []
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,90 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : soft",
@@ -692,8 +732,9 @@
         ]
     },
     {
-        "title": "Nappe soft rectangle 1,5X3M",
-        "price": "2,90 €",
+        "name": "Nappe soft rectangle 1,5X3M",
+        "type": "simple",
+        "regular_price": "2,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 41x36.5x85cm",
             "<strong>Matiere</strong> : intissee",
@@ -716,8 +757,9 @@
         ]
     },
     {
-        "title": "Nappe chabbat shalom 1,3X3M",
-        "price": "2,90 €",
+        "name": "Nappe chabbat shalom 1,3X3M",
+        "type": "simple",
+        "regular_price": "2,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 41x36.5x85cm",
             "<strong>Matiere</strong> : intissee",
@@ -734,8 +776,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -749,8 +792,9 @@
         "images": []
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -764,8 +808,9 @@
         "images": []
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,90 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : SOFT",
@@ -782,8 +827,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -797,8 +843,9 @@
         "images": []
     },
     {
-        "title": "nappe  jute 150x250cm",
-        "price": "9,00 €",
+        "name": "nappe  jute 150x250cm",
+        "type": "simple",
+        "regular_price": "9,00 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 43X36X76",
             "<strong>Matiere</strong> : JUTE",
@@ -810,8 +857,9 @@
         "images": []
     },
     {
-        "title": "ROULEAU INTISSE  20CMX100 M",
-        "price": "9,37 €",
+        "name": "ROULEAU INTISSE  20CMX100 M",
+        "type": "simple",
+        "regular_price": "9,37 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -828,8 +876,9 @@
         ]
     },
     {
-        "title": "Nappe rectangle 100% Polyester 180x300cm",
-        "price": "5,90 €",
+        "name": "Nappe rectangle 100% Polyester 180x300cm",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> : 180x300cm",
@@ -851,8 +900,9 @@
         ]
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,90 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : soft",
@@ -867,8 +917,9 @@
         ]
     },
     {
-        "title": "Nappe damasse 5 x 1.20M",
-        "price": "1,62 €",
+        "name": "Nappe damasse 5 x 1.20M",
+        "type": "simple",
+        "regular_price": "1,62 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -897,8 +948,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -912,8 +964,9 @@
         "images": []
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,90 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : soft",
@@ -930,8 +983,9 @@
         ]
     },
     {
-        "title": "NAPPE RONDE NON TISSE diametre 2.40M",
-        "price": "3,90 €",
+        "name": "NAPPE RONDE NON TISSE diametre 2.40M",
+        "type": "simple",
+        "regular_price": "3,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 25 X 28",
             "<strong>Matiere</strong> : soft",
@@ -946,8 +1000,9 @@
         ]
     },
     {
-        "title": "Nappe ronde 100% Polyester diametre240cm",
-        "price": "9,50 €",
+        "name": "Nappe ronde 100% Polyester diametre240cm",
+        "type": "simple",
+        "regular_price": "9,50 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> : Diamètre 240CM",
@@ -961,8 +1016,9 @@
         ]
     },
     {
-        "title": "Nappe soft rectangle 1,5X3M",
-        "price": "2,90 €",
+        "name": "Nappe soft rectangle 1,5X3M",
+        "type": "simple",
+        "regular_price": "2,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 41x36.5x85cm",
             "<strong>Matiere</strong> : intissee",
@@ -985,8 +1041,9 @@
         ]
     },
     {
-        "title": "Nappe damasse 5 x 1.20M",
-        "price": "2,39 €",
+        "name": "Nappe damasse 5 x 1.20M",
+        "type": "simple",
+        "regular_price": "2,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -1007,8 +1064,9 @@
         ]
     },
     {
-        "title": "NAPPE DAMASSEE 25mx1.20m",
-        "price": "6,60 €",
+        "name": "NAPPE DAMASSEE 25mx1.20m",
+        "type": "simple",
+        "regular_price": "6,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 31 X 13.5",
             "<strong>Matiere</strong> : PAPIER",
@@ -1022,8 +1080,9 @@
         "images": []
     },
     {
-        "title": "NAPPE GAUFFREE 20 m",
-        "price": "5,80 €",
+        "name": "NAPPE GAUFFREE 20 m",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER GAUFFRE",
@@ -1043,8 +1102,9 @@
         ]
     },
     {
-        "title": "Nappe damasse 5 x 1.20m",
-        "price": "1,20 €",
+        "name": "Nappe damasse 5 x 1.20m",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER",
@@ -1073,8 +1133,9 @@
         ]
     },
     {
-        "title": "NAPPE GAUFFREE 20 m",
-        "price": "5,80 €",
+        "name": "NAPPE GAUFFREE 20 m",
+        "type": "simple",
+        "regular_price": "5,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 18 X 3 X 30",
             "<strong>Matiere</strong> : PAPIER GAUFFRE",
@@ -1093,8 +1154,9 @@
         ]
     },
     {
-        "title": "Nappe rectangle crepe 150x250cm",
-        "price": "5,90 €",
+        "name": "Nappe rectangle crepe 150x250cm",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> :  150x250cm",

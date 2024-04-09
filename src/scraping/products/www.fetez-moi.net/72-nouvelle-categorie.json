@@ -1,7 +1,8 @@
 [
     {
-        "title": "4 Serviettes  crepes 40x40cm",
-        "price": "3,60 €",
+        "name": "4 Serviettes  crepes 40x40cm",
+        "type": "simple",
+        "regular_price": "3,60 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> : 40x40cm",
@@ -12,8 +13,9 @@
         "images": []
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -30,8 +32,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,78 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,78 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -52,8 +55,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -72,8 +76,9 @@
         ]
     },
     {
-        "title": "Serviette  50 PIECES ",
-        "price": "0,59 €",
+        "name": "Serviette  50 PIECES ",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -87,8 +92,9 @@
         "images": []
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -109,8 +115,9 @@
         ]
     },
     {
-        "title": "Serviette les 100 pieces (2 plis)",
-        "price": "1,23 €",
+        "name": "Serviette les 100 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "1,23 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -129,8 +136,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -149,8 +157,9 @@
         ]
     },
     {
-        "title": "serviette chabat shalom 10 pieces",
-        "price": "0,99 €",
+        "name": "serviette chabat shalom 10 pieces",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 41x36.5x85cm",
             "<strong>Matiere</strong> : OUATE",
@@ -167,8 +176,9 @@
         ]
     },
     {
-        "title": "Serviette OR 30 pièces",
-        "price": "0,98 €",
+        "name": "Serviette OR 30 pièces",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21.5x50x18cm",
             "<strong>Matiere</strong> : PAPIER 2PLIS ",
@@ -190,8 +200,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -214,8 +225,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -236,8 +248,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -256,8 +269,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -276,8 +290,9 @@
         ]
     },
     {
-        "title": "6 Serviettes 100% Polyester carré 50x50cm",
-        "price": "3,60 €",
+        "name": "6 Serviettes 100% Polyester carré 50x50cm",
+        "type": "simple",
+        "regular_price": "3,60 €",
         "description": [
             "<strong>Matiere</strong> : 100% Polyester",
             "<strong>Dimensions produit</strong> : 50x50cm",
@@ -297,8 +312,9 @@
         ]
     },
     {
-        "title": "Serviette blanc (1 pli) 100pieces 30x30cm",
-        "price": "0,68 €",
+        "name": "Serviette blanc (1 pli) 100pieces 30x30cm",
+        "type": "simple",
+        "regular_price": "0,68 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -315,8 +331,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -337,8 +354,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",
@@ -359,8 +377,9 @@
         ]
     },
     {
-        "title": "Serviette les 40 pieces (2 plis)",
-        "price": "0,89 €",
+        "name": "Serviette les 40 pieces (2 plis)",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 319 X 19 X 8",
             "<strong>Matiere</strong> : OUAT DE CELLULLOSE",

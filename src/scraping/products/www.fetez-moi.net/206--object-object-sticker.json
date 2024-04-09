@@ -1,7 +1,8 @@
 [
     {
-        "title": "PLANCHE AUTOCOLLANTE COEUR",
-        "price": "0,85 €",
+        "name": "PLANCHE AUTOCOLLANTE COEUR",
+        "type": "simple",
+        "regular_price": "0,85 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 85 X 8",
             "<strong>Matiere</strong> : PAPIER AUTOCOLLANT",
@@ -25,8 +26,9 @@
         ]
     },
     {
-        "title": "PLANCHE AUTOCOLLANTE RECTANGLE OR",
-        "price": "0,82 €",
+        "name": "PLANCHE AUTOCOLLANTE RECTANGLE OR",
+        "type": "simple",
+        "regular_price": "0,82 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 85 X 8",
             "<strong>Matiere</strong> : PAPIER AUTOCOLLANT",
@@ -50,8 +52,9 @@
         ]
     },
     {
-        "title": "PLANCHE AUTOCOLLANTE OR 'MERCI'",
-        "price": "0,82 €",
+        "name": "PLANCHE AUTOCOLLANTE OR 'MERCI'",
+        "type": "simple",
+        "regular_price": "0,82 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 21 X 85 X 8",
             "<strong>Matiere</strong> : PAPIER AUTOCOLLANT",

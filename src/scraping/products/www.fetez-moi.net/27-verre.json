@@ -1,7 +1,8 @@
 [
     {
-        "title": "POT CARRE EN VERRE",
-        "price": "0,39 €",
+        "name": "POT CARRE EN VERRE",
+        "type": "simple",
+        "regular_price": "0,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -16,8 +17,9 @@
         "images": []
     },
     {
-        "title": "POT ROND EN VERRE  ",
-        "price": "0,42 €",
+        "name": "POT ROND EN VERRE  ",
+        "type": "simple",
+        "regular_price": "0,42 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -31,8 +33,9 @@
         "images": []
     },
     {
-        "title": "POT TRANSPARENT  OR ",
-        "price": "0,69 €",
+        "name": "POT TRANSPARENT  OR ",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 27.5 X 14 X 6.5 CM",
             "<strong>Matiere</strong> : VERRE",
@@ -51,8 +54,9 @@
         ]
     },
     {
-        "title": "BOULE  VERRE",
-        "price": "0,90 €",
+        "name": "BOULE  VERRE",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 52X40X25",
             "<strong>Matiere</strong> : VERRE",
@@ -68,8 +72,9 @@
         "images": []
     },
     {
-        "title": "COFFRET CARREE VERRE",
-        "price": "0,59 €",
+        "name": "COFFRET CARREE VERRE",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46X35X20 CM",
             "<strong>Matiere</strong> : VERRE",
@@ -85,8 +90,9 @@
         "images": []
     },
     {
-        "title": "TUBE VERRE  BAPTEME",
-        "price": "0,65 €",
+        "name": "TUBE VERRE  BAPTEME",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 10.5 X 3.5CM",
             "<strong>Matiere</strong> : VERRE",
@@ -107,8 +113,9 @@
         ]
     },
     {
-        "title": "POT CARRE EN VERRE  OCTOGONAL",
-        "price": "0,45 €",
+        "name": "POT CARRE EN VERRE  OCTOGONAL",
+        "type": "simple",
+        "regular_price": "0,45 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -123,8 +130,9 @@
         "images": []
     },
     {
-        "title": "POT ROND EN VERRE  BAPTEME",
-        "price": "0,66 €",
+        "name": "POT ROND EN VERRE  BAPTEME",
+        "type": "simple",
+        "regular_price": "0,66 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -141,8 +149,9 @@
         ]
     },
     {
-        "title": "Coffret bijou alliance rectangle",
-        "price": "2,75 €",
+        "name": "Coffret bijou alliance rectangle",
+        "type": "simple",
+        "regular_price": "2,75 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44 X 34 X 32",
             "<strong>Matiere</strong> : VERRE",
@@ -158,8 +167,9 @@
         "images": []
     },
     {
-        "title": "POT ROND EN VERRE",
-        "price": "0,42 €",
+        "name": "POT ROND EN VERRE",
+        "type": "simple",
+        "regular_price": "0,42 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -178,8 +188,9 @@
         ]
     },
     {
-        "title": "POT TRANSPARENT  ROSE DORE",
-        "price": "0,69 €",
+        "name": "POT TRANSPARENT  ROSE DORE",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 27.5 X 14 X 6.5 CM",
             "<strong>Matiere</strong> : VERRE",
@@ -198,8 +209,9 @@
         ]
     },
     {
-        "title": "mini bouteille verre ",
-        "price": "0,35 €",
+        "name": "mini bouteille verre ",
+        "type": "simple",
+        "regular_price": "0,35 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -219,8 +231,9 @@
         ]
     },
     {
-        "title": "flacon   verre ",
-        "price": "0,63 €",
+        "name": "flacon   verre ",
+        "type": "simple",
+        "regular_price": "0,63 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -241,8 +254,9 @@
         ]
     },
     {
-        "title": "TUBE VERRE",
-        "price": "0,40 €",
+        "name": "TUBE VERRE",
+        "type": "simple",
+        "regular_price": "0,40 €",
         "description": [
             "<strong>Matiere</strong> : VERRE",
             "<strong>Dimensions produit</strong> :  10 X 2.5CM",
@@ -271,8 +285,9 @@
         ]
     },
     {
-        "title": "FLACON   ",
-        "price": "0,89 €",
+        "name": "FLACON   ",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -294,8 +309,9 @@
         ]
     },
     {
-        "title": "FIOLE VERRE",
-        "price": "0,53 €",
+        "name": "FIOLE VERRE",
+        "type": "simple",
+        "regular_price": "0,53 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 x11.5 x17",
             "<strong>Matiere</strong> : VERRE",
@@ -324,8 +340,9 @@
         ]
     },
     {
-        "title": "TUBE VERRE MARIAGE",
-        "price": "0,65 €",
+        "name": "TUBE VERRE MARIAGE",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 10.5 X 3.5CM",
             "<strong>Matiere</strong> : VERRE",
@@ -342,8 +359,9 @@
         ]
     },
     {
-        "title": "POT ROND EN VERRE  MARIAGE",
-        "price": "0,66 €",
+        "name": "POT ROND EN VERRE  MARIAGE",
+        "type": "simple",
+        "regular_price": "0,66 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -360,8 +378,9 @@
         ]
     },
     {
-        "title": "FLACON ROND VERRE",
-        "price": "0,69 €",
+        "name": "FLACON ROND VERRE",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44 X 34 X 32",
             "<strong>Matiere</strong> : VERRE",
@@ -377,8 +396,9 @@
         "images": []
     },
     {
-        "title": "BOUGEOIRE VERRE",
-        "price": "0,79 €",
+        "name": "BOUGEOIRE VERRE",
+        "type": "simple",
+        "regular_price": "0,79 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44 X 34 X 32",
             "<strong>Matiere</strong> : VERRE",
@@ -393,8 +413,9 @@
         "images": []
     },
     {
-        "title": "COEUR VERRE",
-        "price": "0,59 €",
+        "name": "COEUR VERRE",
+        "type": "simple",
+        "regular_price": "0,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 27 x 14 x 8.5",
             "<strong>Matiere</strong> : VERRE",
@@ -416,8 +437,9 @@
         ]
     },
     {
-        "title": "pot à miel",
-        "price": "0,39 €",
+        "name": "pot à miel",
+        "type": "simple",
+        "regular_price": "0,39 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -441,8 +463,9 @@
         ]
     },
     {
-        "title": "EPROUVETTE MARQUE PLACE",
-        "price": "0,27 €",
+        "name": "EPROUVETTE MARQUE PLACE",
+        "type": "simple",
+        "regular_price": "0,27 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -471,8 +494,9 @@
         ]
     },
     {
-        "title": "FLACON VASE  ",
-        "price": "0,56 €",
+        "name": "FLACON VASE  ",
+        "type": "simple",
+        "regular_price": "0,56 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36X28X36CM",
             "<strong>Matiere</strong> : VERRE",
@@ -488,8 +512,9 @@
         "images": []
     },
     {
-        "title": "FLACON ROND VERRE",
-        "price": "0,69 €",
+        "name": "FLACON ROND VERRE",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44 X 34 X 32",
             "<strong>Matiere</strong> : VERRE",
@@ -505,8 +530,9 @@
         "images": []
     },
     {
-        "title": "flacon   verre ",
-        "price": "0,99 €",
+        "name": "flacon   verre ",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26.5 X12.5 X 9.5  CM",
             "<strong>Matiere</strong> : VERRE",
@@ -530,8 +556,9 @@
         ]
     },
     {
-        "title": "FLACON   VERRE",
-        "price": "0,44 €",
+        "name": "FLACON   VERRE",
+        "type": "simple",
+        "regular_price": "0,44 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 44 X 34 X 32",
             "<strong>Matiere</strong> : VERRE",
@@ -547,8 +574,9 @@
         "images": []
     },
     {
-        "title": "FLACON VERRE ",
-        "price": "0,66 €",
+        "name": "FLACON VERRE ",
+        "type": "simple",
+        "regular_price": "0,66 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46X35X42",
             "<strong>Matiere</strong> : VERRE",
@@ -564,8 +592,9 @@
         "images": []
     },
     {
-        "title": "POT TRANSPARENT",
-        "price": "0,52 €",
+        "name": "POT TRANSPARENT",
+        "type": "simple",
+        "regular_price": "0,52 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 27.5 X 14 X 6.5 CM",
             "<strong>Matiere</strong> : VERRE",

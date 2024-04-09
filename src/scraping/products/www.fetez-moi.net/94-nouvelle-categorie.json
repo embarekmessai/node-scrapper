@@ -1,7 +1,8 @@
 [
     {
-        "title": "10 Gobelets OR  JOYEUX ANNIVERSAIRE",
-        "price": "0,65 €",
+        "name": "10 Gobelets OR  JOYEUX ANNIVERSAIRE",
+        "type": "simple",
+        "regular_price": "0,65 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "Gobelet joyeux anniversaire les 10 pieces",
-        "price": "0,89 €",
+        "name": "Gobelet joyeux anniversaire les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 32  x 22 x25",
             "<strong>Matiere</strong> : carton",
@@ -40,8 +42,9 @@
         ]
     },
     {
-        "title": "Assiette joyeux anniversaire",
-        "price": "0,98 €",
+        "name": "Assiette joyeux anniversaire",
+        "type": "simple",
+        "regular_price": "0,98 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23 X 23 X14",
             "<strong>Matiere</strong> : CARTON",
@@ -60,8 +63,9 @@
         ]
     },
     {
-        "title": "Sac joyeux anniversaire les 6 pieces",
-        "price": "0,69 €",
+        "name": "Sac joyeux anniversaire les 6 pieces",
+        "type": "simple",
+        "regular_price": "0,69 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 25 X 14",
             "<strong>Matiere</strong> : PLASTIQUE",
@@ -80,8 +84,9 @@
         ]
     },
     {
-        "title": "Urne joyeux anniversaire",
-        "price": "5,90 €",
+        "name": "Urne joyeux anniversaire",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 62X 32X32",
             "<strong>Matiere</strong> : CARTON",
@@ -100,8 +105,9 @@
         ]
     },
     {
-        "title": "Livre d'or joyeux anniversaire",
-        "price": "5,90 €",
+        "name": "Livre d'or joyeux anniversaire",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 29 X 25 X25",
             "<strong>Matiere</strong> : PAPIER",
@@ -120,8 +126,9 @@
         ]
     },
     {
-        "title": "Serviette joyeux anniversaire 20  pieces",
-        "price": "0,92 €",
+        "name": "Serviette joyeux anniversaire 20  pieces",
+        "type": "simple",
+        "regular_price": "0,92 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : Cellulose Ouate",
@@ -142,8 +149,9 @@
         ]
     },
     {
-        "title": "JOYEUX ANNIVERSAIRE en bois la pièce",
-        "price": "5,90 €",
+        "name": "JOYEUX ANNIVERSAIRE en bois la pièce",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 12 X 20",
             "<strong>Matiere</strong> : BOIS",
@@ -170,8 +178,9 @@
         ]
     },
     {
-        "title": "Nappe plastic joyeux anniversaire 130x180cm",
-        "price": "0,89 €",
+        "name": "Nappe plastic joyeux anniversaire 130x180cm",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36x25x20",
             "<strong>Matiere</strong> : plastic",
@@ -190,8 +199,9 @@
         ]
     },
     {
-        "title": "Drapeau joyeux anniversaire",
-        "price": "0,90 €",
+        "name": "Drapeau joyeux anniversaire",
+        "type": "simple",
+        "regular_price": "0,90 €",
         "description": [
             "<strong>Matiere</strong> : PAPIER",
             "<strong>Dimensions produit</strong> : 3M",
@@ -211,8 +221,9 @@
         ]
     },
     {
-        "title": "JOYEUX ANNIVERSAIRE en bois la pièce",
-        "price": "5,90 €",
+        "name": "JOYEUX ANNIVERSAIRE en bois la pièce",
+        "type": "simple",
+        "regular_price": "5,90 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 12 X 20",
             "<strong>Matiere</strong> : BOIS",
@@ -238,8 +249,9 @@
         ]
     },
     {
-        "title": "Ballon 8 pièces joyeux anniversaire",
-        "price": "1,20 €",
+        "name": "Ballon 8 pièces joyeux anniversaire",
+        "type": "simple",
+        "regular_price": "1,20 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 25x35x1.5cm",
             "<strong>Matiere</strong> : latex",
@@ -258,8 +270,9 @@
         ]
     },
     {
-        "title": "Serviette joyeux anniversaire 20  pieces",
-        "price": "1,89 €",
+        "name": "Serviette joyeux anniversaire 20  pieces",
+        "type": "simple",
+        "regular_price": "1,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : Cellulose Ouate",

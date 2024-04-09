@@ -1,7 +1,8 @@
 [
     {
-        "title": "STYLO ET PLUME",
-        "price": "1,25 €",
+        "name": "STYLO ET PLUME",
+        "type": "simple",
+        "regular_price": "1,25 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 X 13X 5.5",
             "<strong>Matiere</strong> : PLUME",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "STYLO ET PLUME",
-        "price": "1,25 €",
+        "name": "STYLO ET PLUME",
+        "type": "simple",
+        "regular_price": "1,25 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 X 13 X 5.5",
             "<strong>Matiere</strong> : PLUME",
@@ -40,8 +42,9 @@
         ]
     },
     {
-        "title": "STYLO ET PLUME",
-        "price": "1,25 €",
+        "name": "STYLO ET PLUME",
+        "type": "simple",
+        "regular_price": "1,25 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 30 X 13 X 5.5",
             "<strong>Matiere</strong> : PLUME",

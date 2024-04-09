@@ -1,7 +1,8 @@
 [
     {
-        "title": "LICORNE 3 pcs",
-        "price": "0,95 €",
+        "name": "LICORNE 3 pcs",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 32 X 8",
             "<strong>Matiere</strong> : plastique",
@@ -22,8 +23,9 @@
         ]
     },
     {
-        "title": "Serviette LICORNE les 20 pièces (3PLIS)",
-        "price": "1,38 €",
+        "name": "Serviette LICORNE les 20 pièces (3PLIS)",
+        "type": "simple",
+        "regular_price": "1,38 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : Cellulose Ouate",
@@ -56,8 +58,9 @@
         ]
     },
     {
-        "title": "Gobelet LICORNE les 8 pièces",
-        "price": "0,95 €",
+        "name": "Gobelet LICORNE les 8 pièces",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 24.4x16.4x23",
             "<strong>Matiere</strong> : CARTON",
@@ -90,8 +93,9 @@
         ]
     },
     {
-        "title": "Assiette LICORNE les 8 pièces",
-        "price": "1,15 €",
+        "name": "Assiette LICORNE les 8 pièces",
+        "type": "simple",
+        "regular_price": "1,15 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.10x16.5x23.4cm",
             "<strong>Matiere</strong> : CARTON",

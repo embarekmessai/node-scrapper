@@ -1,7 +1,8 @@
 [
     {
-        "title": "Plateau carton 34 X45 cm - 3pieces ",
-        "price": "1,10 €",
+        "name": "Plateau carton 34 X45 cm - 3pieces ",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46,5X6X3,5\n",
             "<strong>Matiere</strong> : CARTON",
@@ -19,8 +20,9 @@
         ]
     },
     {
-        "title": "Plateau kraft -5 pieces ",
-        "price": "0,60 €",
+        "name": "Plateau kraft -5 pieces ",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26X23,4X35 \n",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -39,8 +41,9 @@
         ]
     },
     {
-        "title": "Assiette les 20 pièces - 23CM",
-        "price": "0,99 €",
+        "name": "Assiette les 20 pièces - 23CM",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 28,5X24,5X20",
             "<strong>Matiere</strong> : CARTON",
@@ -56,8 +59,9 @@
         "images": []
     },
     {
-        "title": "GOBELET  50 pièces 4oz",
-        "price": "0,85 €",
+        "name": "GOBELET  50 pièces 4oz",
+        "type": "simple",
+        "regular_price": "0,85 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 20 X 30 X 10",
             "<strong>Matiere</strong> : CARTON",
@@ -73,8 +77,9 @@
         ]
     },
     {
-        "title": "GOBELET 50  PIECES 7 OZ ",
-        "price": "0,80 €",
+        "name": "GOBELET 50  PIECES 7 OZ ",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36,5 X 29,5 X 38,5",
             "<strong>Matiere</strong> : CARTON",
@@ -93,8 +98,9 @@
         ]
     },
     {
-        "title": "GOBELET CARTON  20  PIECES 473ML",
-        "price": "1,59 €",
+        "name": "GOBELET CARTON  20  PIECES 473ML",
+        "type": "simple",
+        "regular_price": "1,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 45 X 45 X 55",
             "<strong>Matiere</strong> : CARTON",
@@ -113,8 +119,9 @@
         ]
     },
     {
-        "title": "set 5 plateau rond  & napperon",
-        "price": "1,40 €",
+        "name": "set 5 plateau rond  & napperon",
+        "type": "simple",
+        "regular_price": "1,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26X23,4X35 \n",
             "<strong>Matiere</strong> : or",
@@ -131,8 +138,9 @@
         ]
     },
     {
-        "title": "Assiette laquée les 10 pieces",
-        "price": "0,88 €",
+        "name": "Assiette laquée les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON",
@@ -155,8 +163,9 @@
         ]
     },
     {
-        "title": "ASSIETTE RONDE  KRAFT X10",
-        "price": "0,88 €",
+        "name": "ASSIETTE RONDE  KRAFT X10",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5 X 23.5 X 14",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -181,8 +190,9 @@
         ]
     },
     {
-        "title": "Assiette laquée les 10 pieces",
-        "price": "0,88 €",
+        "name": "Assiette laquée les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,88 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.10x16.5x23.4cm",
             "<strong>Matiere</strong> : CARTON",
@@ -205,8 +215,9 @@
         ]
     },
     {
-        "title": "gobelet les 10 pieces",
-        "price": "0,60 €",
+        "name": "gobelet les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -234,8 +245,9 @@
         ]
     },
     {
-        "title": "gobelet KRAFT les 10 pièces",
-        "price": "0,60 €",
+        "name": "gobelet KRAFT les 10 pièces",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON KRAFT",
@@ -258,8 +270,9 @@
         ]
     },
     {
-        "title": "Gobelet a  cafe  50 pièces 25cl-8oz",
-        "price": "1,64 €",
+        "name": "Gobelet a  cafe  50 pièces 25cl-8oz",
+        "type": "simple",
+        "regular_price": "1,64 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 20 X 30 X 10",
             "<strong>Matiere</strong> : CARTON",
@@ -277,8 +290,9 @@
         ]
     },
     {
-        "title": "Plateau carton 24 X 33 cm - 5 pieces ",
-        "price": "1,10 €",
+        "name": "Plateau carton 24 X 33 cm - 5 pieces ",
+        "type": "simple",
+        "regular_price": "1,10 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26X23,4X35 \n",
             "<strong>Matiere</strong> : CARTON",
@@ -290,8 +304,9 @@
         "images": []
     },
     {
-        "title": "Plateau carton 34 X45 cm - 3pieces ",
-        "price": "0,99 €",
+        "name": "Plateau carton 34 X45 cm - 3pieces ",
+        "type": "simple",
+        "regular_price": "0,99 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 46,5X6X3,5\n",
             "<strong>Matiere</strong> : CARTON",
@@ -307,8 +322,9 @@
         ]
     },
     {
-        "title": "Plateau carton 24 X 33 cm - 5 pieces ",
-        "price": "0,80 €",
+        "name": "Plateau carton 24 X 33 cm - 5 pieces ",
+        "type": "simple",
+        "regular_price": "0,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 26X23,4X35 \n",
             "<strong>Matiere</strong> : CARTON",
@@ -320,8 +336,9 @@
         "images": []
     },
     {
-        "title": "gobelet les 10 pieces",
-        "price": "0,60 €",
+        "name": "gobelet les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,60 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",

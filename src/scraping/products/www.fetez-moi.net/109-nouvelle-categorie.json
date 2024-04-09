@@ -1,7 +1,8 @@
 [
     {
-        "title": "Ménagère PRESTIGE argent 40 pièces",
-        "price": "2,30 €",
+        "name": "Ménagère PRESTIGE argent 40 pièces",
+        "type": "simple",
+        "regular_price": "2,30 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -20,8 +21,9 @@
         ]
     },
     {
-        "title": "Ménagère PRESTIGE   OR 40 ¨PIECES",
-        "price": "3,40 €",
+        "name": "Ménagère PRESTIGE   OR 40 ¨PIECES",
+        "type": "simple",
+        "regular_price": "3,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 8.7x12.1cm",
             "<strong>Matiere</strong> : plastique façon inox",
@@ -38,8 +40,9 @@
         ]
     },
     {
-        "title": "Chemin table oriental",
-        "price": "2,80 €",
+        "name": "Chemin table oriental",
+        "type": "simple",
+        "regular_price": "2,80 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 22 X 33 X 17",
             "<strong>Matiere</strong> : INTISSE",
@@ -64,8 +67,9 @@
         ]
     },
     {
-        "title": "Assiettes orientales les 10 pieces",
-        "price": "0,95 €",
+        "name": "Assiettes orientales les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,95 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 23.5X25X14 cm",
             "<strong>Matiere</strong> : carton",
@@ -88,8 +92,9 @@
         ]
     },
     {
-        "title": "Gobelet orientale les 10 pieces",
-        "price": "0,89 €",
+        "name": "Gobelet orientale les 10 pieces",
+        "type": "simple",
+        "regular_price": "0,89 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 36.5 X 16.5 X 16",
             "<strong>Matiere</strong> : CARTON",
@@ -114,8 +119,9 @@
         ]
     },
     {
-        "title": "Menagere Gourmet 24  pieces",
-        "price": "3,59 €",
+        "name": "Menagere Gourmet 24  pieces",
+        "type": "simple",
+        "regular_price": "3,59 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 47X45X23",
             "<strong>Matiere</strong> : POLYSTYRENE",
@@ -135,8 +141,9 @@
         ]
     },
     {
-        "title": "Menagere 30 pieces fourchettes cuilleres couteaux",
-        "price": "3,40 €",
+        "name": "Menagere 30 pieces fourchettes cuilleres couteaux",
+        "type": "simple",
+        "regular_price": "3,40 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 40 X 19.5 X 26",
             "<strong>Matiere</strong> : POLYSTYRENE",
@@ -157,8 +164,9 @@
         ]
     },
     {
-        "title": "Serviettes orientale les 20 pieces",
-        "price": "0,96 €",
+        "name": "Serviettes orientale les 20 pieces",
+        "type": "simple",
+        "regular_price": "0,96 €",
         "description": [
             "<strong>Dimensions colis (cm)</strong> : 16.5 X 17",
             "<strong>Matiere</strong> : Cellulose Ouate",
